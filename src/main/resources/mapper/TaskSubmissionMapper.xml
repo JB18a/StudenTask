@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.ccc.mapper.TaskSubmissionMapper">
+
+    <!-- 1. 插入提交记录 -->
+    <insert id="insert" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO task_submission (task_id, user_id, file_url, file_name, score, feedback, submit_time)
+        VALUES (#{taskId}, #{userId}, #{fileUrl}, #{fileName}, NULL, NULL, NOW())
+    </insert>
+
+    <!-- 2. 更新分数和评语 -->
+    <update id="updateScore">
+        UPDATE task_submission
+        SET score = #{score},
+            feedback = #{feedback}
+        WHERE id = #{id}
+    </update>
+
+    <!-- 3. 根据任务ID查列表 (关联 user 表查昵称) -->
+    <!-- 注意：为了能在实体类里存 nickname，你需要去 TaskSubmission.java 加一个 private String submitterName; 字段 -->
+    <!-- 如果不想加字段，也可以返回 Map，这里演示关联查询 -->
+    <select id="selectByTaskId" resultType="com.example.ccc.entity.TaskSubmission">
+        SELECT
+            s.*,
+            u.nickname as submitterName
+        FROM task_submission s
+                 LEFT JOIN user u ON s.user_id = u.id
+        WHERE s.task_id = #{taskId}
+        ORDER BY s.submit_time DESC
+    </select>
+
+    <!-- 4. 查询某用户的详细历史 (关联 task 表查标题) -->
+    <select id="selectUserHistory" resultType="com.example.ccc.entity.UserHistoryVO">
+        SELECT
+            s.id as submissionId,
+            s.file_url as fileUrl,
+            s.file_name as fileName,
+            s.score,
+            s.feedback,
+            s.submit_time as submitTime,
+            t.title as taskTitle,
+            t.id as taskId
+        FROM task_submission s
+                 LEFT JOIN task t ON s.task_id = t.id
+        WHERE s.user_id = #{userId}
+        ORDER BY s.submit_time DESC
+    </select>
+
+    <!-- 5. 查单条 -->
+    <select id="selectById" resultType="com.example.ccc.entity.TaskSubmission">
+        SELECT * FROM task_submission WHERE id = #{id}
+    </select>
+
+</mapper>

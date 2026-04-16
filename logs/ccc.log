@@ -1,0 +1,1213 @@
+2026-03-20 00:00:24.402 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.402 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.405 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.405 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.407 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.407 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.409 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.409 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.410 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.410 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.412 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.412 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.413 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.413 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.413 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.413 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.416 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.416 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.416 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.418 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.418 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.418 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.419 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.419 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.419 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.419 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.421 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.421 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.422 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.422 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.424 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.424 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.426 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.426 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.427 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.427 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.429 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.429 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.429 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.429 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.431 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.431 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.433 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.433 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.435 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.435 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.436 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.436 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.438 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.438 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.440 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.440 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.441 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.441 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.443 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.443 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.444 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.444 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.446 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.446 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.448 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.448 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.449 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.449 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.450 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.450 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.452 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.452 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.452 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.452 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.454 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.454 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.456 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.456 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.457 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.457 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.458 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.458 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.460 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.460 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.461 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.461 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.463 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.463 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.464 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.464 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.468 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.468 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.469 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.469 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.471 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.471 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.472 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.472 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.474 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.474 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.475 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.475 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.479 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.479 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.480 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.480 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.482 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.482 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.482 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.482 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:24.483 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:24.483 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:00:38.578 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:00:38.578 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:01:38.564 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:01:38.564 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:02:38.565 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:02:38.565 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:03:38.561 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:03:38.561 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:04:38.575 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:04:38.575 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:05:38.572 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:05:38.572 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:06:38.577 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:06:38.577 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:07:38.573 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:07:38.573 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:08:38.562 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:08:38.562 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:09:38.574 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:09:38.574 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 00:10:38.576 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 00:10:38.576 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: math (截止时间: 2026-03-19 23:40:00)
+2026-03-20 10:48:07.353 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2026-03-20 10:48:08.000 [restartedMain] INFO  com.example.ccc.CccApplication - Starting CccApplication using Java 21 with PID 5144 (G:\实训项目\ccc\target\classes started by 迷人的牛爷爷 in G:\实训项目\ccc)
+2026-03-20 10:48:08.000 [restartedMain] DEBUG com.example.ccc.CccApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2026-03-20 10:48:08.002 [restartedMain] INFO  com.example.ccc.CccApplication - The following 1 profile is active: "dev"
+2026-03-20 10:48:08.054 [restartedMain] INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\迷人的牛爷爷\.m2\repository\org\apache\opennlp\opennlp-tools\2.5.4\opennlp-tools-2.5.4.jar referenced one or more files that do not exist: file:/C:/Users/迷人的牛爷爷/.m2/repository/org/apache/opennlp/opennlp-tools/2.5.4/slf4j-api-2.0.17.jar
+2026-03-20 10:48:08.054 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-03-20 10:48:08.054 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-03-20 10:48:09.613 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-03-20 10:48:09.613 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-03-20 10:48:09.931 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 311 ms. Found 3 JPA repository interfaces.
+2026-03-20 10:48:09.947 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-03-20 10:48:09.947 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-03-20 10:48:09.967 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.TaskRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 10:48:09.967 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.TaskSubmissionRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 10:48:09.967 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.UserRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 10:48:09.967 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2026-03-20 10:48:11.501 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2026-03-20 10:48:11.510 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2026-03-20 10:48:11.512 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-20 10:48:11.514 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2026-03-20 10:48:11.574 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-20 10:48:11.574 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3520 ms
+2026-03-20 10:48:11.897 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-03-20 10:48:12.269 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@703aa31a
+2026-03-20 10:48:12.270 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-03-20 10:48:12.310 [restartedMain] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-03-20 10:48:12.389 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2026-03-20 10:48:12.429 [restartedMain] INFO  o.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-03-20 10:48:12.702 [restartedMain] INFO  o.s.o.j.persistenceunit.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-03-20 10:48:12.787 [restartedMain] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.7.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 8.0.0. Check the community dialects project for available legacy versions.
+2026-03-20 10:48:13.818 [restartedMain] INFO  o.h.e.t.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-20 10:48:13.822 [restartedMain] INFO  o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-03-20 10:48:14.092 [restartedMain] INFO  o.s.data.jpa.repository.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2026-03-20 10:48:15.945 [restartedMain] INFO  org.redisson.Version - Redisson 3.27.0
+2026-03-20 10:48:16.178 [redisson-netty-4-6] INFO  org.redisson.connection.ConnectionsHolder - 1 connections initialized for localhost/127.0.0.1:6379
+2026-03-20 10:48:16.178 [redisson-netty-4-5] INFO  org.redisson.connection.ConnectionsHolder - 1 connections initialized for localhost/127.0.0.1:6379
+2026-03-20 10:48:16.659 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-03-20 10:48:17.964 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2026-03-20 10:48:17.974 [restartedMain] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2026-03-20 10:48:18.085 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2026-03-20 10:48:18.096 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2026-03-20 10:48:18.100 [restartedMain] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2026-03-20 10:48:18.165 [restartedMain] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#da32f7e:0/SimpleConnection@21a8541a [delegate=amqp://guest@127.0.0.1:5672/, localPort=65295]
+2026-03-20 10:48:18.279 [restartedMain] INFO  com.example.ccc.CccApplication - Started CccApplication in 11.37 seconds (process running for 13.042)
+2026-03-20 10:48:18.290 [restartedMain] INFO  com.example.ccc.component.LeaderboardCacheWarmer - Starting leaderboard cache warm-up...
+2026-03-20 10:48:18.290 [restartedMain] INFO  com.example.ccc.service.LeaderboardService - Starting to rebuild leaderboard cache...
+2026-03-20 10:48:18.683 [restartedMain] INFO  com.example.ccc.service.LeaderboardService - Leaderboard cache rebuilt successfully, 1 users cached
+2026-03-20 10:48:18.684 [restartedMain] INFO  com.example.ccc.component.LeaderboardCacheWarmer - Leaderboard cache warm-up completed successfully
+2026-03-20 10:48:19.376 [RMI TCP Connection(3)-10.22.43.204] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-20 10:48:19.376 [RMI TCP Connection(3)-10.22.43.204] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-03-20 10:48:19.379 [RMI TCP Connection(3)-10.22.43.204] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2026-03-20 10:48:34.827 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2026-03-20 10:48:34.837 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 10:48:34.839 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#1-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 10:48:34.840 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 10:48:34.841 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 10:48:34.841 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 10:48:35.377 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#1-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 10:48:35.377 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 10:48:35.377 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 10:48:35.377 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 10:48:35.377 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 10:48:35.380 [Thread-6] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8081"]
+2026-03-20 10:48:35.539 [Thread-6] INFO  o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-03-20 10:48:35.543 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-03-20 10:48:35.551 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-03-20 10:48:36.442 [restartedMain] INFO  com.example.ccc.CccApplication - Starting CccApplication using Java 21 with PID 5144 (G:\实训项目\ccc\target\classes started by 迷人的牛爷爷 in G:\实训项目\ccc)
+2026-03-20 10:48:36.442 [restartedMain] DEBUG com.example.ccc.CccApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2026-03-20 10:48:36.442 [restartedMain] INFO  com.example.ccc.CccApplication - The following 1 profile is active: "dev"
+2026-03-20 10:48:36.926 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-03-20 10:48:36.926 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-03-20 10:48:36.954 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 29 ms. Found 3 JPA repository interfaces.
+2026-03-20 10:48:36.957 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-03-20 10:48:36.957 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-03-20 10:48:36.965 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.TaskRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 10:48:36.965 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.TaskSubmissionRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 10:48:36.965 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.UserRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 10:48:36.965 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 Redis repository interfaces.
+2026-03-20 10:48:37.136 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2026-03-20 10:48:37.136 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2026-03-20 10:48:37.137 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-20 10:48:37.137 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2026-03-20 10:48:37.173 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-20 10:48:37.174 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 731 ms
+2026-03-20 10:48:38.027 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2026-03-20 10:48:38.057 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1f67888a
+2026-03-20 10:48:38.057 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2026-03-20 10:48:38.237 [restartedMain] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-03-20 10:48:38.242 [restartedMain] INFO  o.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-03-20 10:48:38.251 [restartedMain] INFO  o.s.o.j.persistenceunit.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-03-20 10:48:38.254 [restartedMain] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.7.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 8.0.0. Check the community dialects project for available legacy versions.
+2026-03-20 10:48:38.383 [restartedMain] INFO  o.h.e.t.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-20 10:48:38.383 [restartedMain] INFO  o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-03-20 10:48:39.273 [restartedMain] INFO  org.redisson.Version - Redisson 3.27.0
+2026-03-20 10:48:39.339 [redisson-netty-12-5] INFO  org.redisson.connection.ConnectionsHolder - 1 connections initialized for localhost/127.0.0.1:6379
+2026-03-20 10:48:39.339 [redisson-netty-12-6] INFO  org.redisson.connection.ConnectionsHolder - 1 connections initialized for localhost/127.0.0.1:6379
+2026-03-20 10:48:39.654 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-03-20 10:48:40.525 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2026-03-20 10:48:40.532 [restartedMain] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2026-03-20 10:48:40.567 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2026-03-20 10:48:40.570 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2026-03-20 10:48:40.570 [restartedMain] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2026-03-20 10:48:40.573 [restartedMain] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#591aa982:0/SimpleConnection@3cbba432 [delegate=amqp://guest@127.0.0.1:5672/, localPort=63386]
+2026-03-20 10:48:40.628 [restartedMain] INFO  com.example.ccc.CccApplication - Started CccApplication in 4.993 seconds (process running for 35.39)
+2026-03-20 10:48:40.629 [restartedMain] INFO  com.example.ccc.component.LeaderboardCacheWarmer - Starting leaderboard cache warm-up...
+2026-03-20 10:48:40.629 [restartedMain] INFO  com.example.ccc.service.LeaderboardService - Starting to rebuild leaderboard cache...
+2026-03-20 10:48:40.674 [restartedMain] INFO  com.example.ccc.service.LeaderboardService - Leaderboard cache rebuilt successfully, 1 users cached
+2026-03-20 10:48:40.674 [restartedMain] INFO  com.example.ccc.component.LeaderboardCacheWarmer - Leaderboard cache warm-up completed successfully
+2026-03-20 10:48:40.677 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2026-03-20 10:49:02.203 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-20 10:49:02.203 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-03-20 10:49:02.204 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2026-03-20 10:49:02.228 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3MzkyODkyMX0.4oPHtYHJvDFE5uJ25UGUCa8yMW93afgzLRxS1WDro6F1Ki-DuOKsEo-K2h5Szj-hJ6uzMdUOqj5NK7p1dAMoHw
+2026-03-20 10:49:02.258 [http-nio-8081-exec-1] WARN  com.example.ccc.interceptor.LoginInterceptor - 令牌解析失败，响应401
+2026-03-20 10:49:11.984 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4MjE1MX0.y3xj5rgO35IH4hqUrqwHN1b2n5YMrN3p1k0KHqZXF8U-NdL4ZUOSk_5mCYcSNI8mQ4RqkiUmzz7eOTB8rV2f1g
+2026-03-20 10:49:11.987 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 10:49:12.037 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 10:49:12.378 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4MjE1MX0.y3xj5rgO35IH4hqUrqwHN1b2n5YMrN3p1k0KHqZXF8U-NdL4ZUOSk_5mCYcSNI8mQ4RqkiUmzz7eOTB8rV2f1g
+2026-03-20 10:49:12.379 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 10:49:12.425 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 10:49:15.016 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4MjE1MX0.y3xj5rgO35IH4hqUrqwHN1b2n5YMrN3p1k0KHqZXF8U-NdL4ZUOSk_5mCYcSNI8mQ4RqkiUmzz7eOTB8rV2f1g
+2026-03-20 10:49:15.018 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 10:49:15.028 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 10:49:17.718 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4MjE1MX0.y3xj5rgO35IH4hqUrqwHN1b2n5YMrN3p1k0KHqZXF8U-NdL4ZUOSk_5mCYcSNI8mQ4RqkiUmzz7eOTB8rV2f1g
+2026-03-20 10:49:17.720 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 10:49:17.743 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 10:49:53.039 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4MjE1MX0.y3xj5rgO35IH4hqUrqwHN1b2n5YMrN3p1k0KHqZXF8U-NdL4ZUOSk_5mCYcSNI8mQ4RqkiUmzz7eOTB8rV2f1g
+2026-03-20 10:49:53.042 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 10:49:53.089 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 10:49:53.419 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4MjE1MX0.y3xj5rgO35IH4hqUrqwHN1b2n5YMrN3p1k0KHqZXF8U-NdL4ZUOSk_5mCYcSNI8mQ4RqkiUmzz7eOTB8rV2f1g
+2026-03-20 10:49:53.423 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 10:49:53.440 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 10:50:03.672 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5ODIyMDN9.iOcUlU6nSsiwGqXHSQTj_b0bpWEklLPXIseZvxLShKIvs5ppBoLIYYDEDVy3ea9TJ9V3-3mR3vjZgjOpDxVGpQ
+2026-03-20 10:50:03.672 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 10:50:03.680 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 10:50:04.003 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5ODIyMDN9.iOcUlU6nSsiwGqXHSQTj_b0bpWEklLPXIseZvxLShKIvs5ppBoLIYYDEDVy3ea9TJ9V3-3mR3vjZgjOpDxVGpQ
+2026-03-20 10:50:04.004 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 10:50:04.014 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 10:50:05.313 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5ODIyMDN9.iOcUlU6nSsiwGqXHSQTj_b0bpWEklLPXIseZvxLShKIvs5ppBoLIYYDEDVy3ea9TJ9V3-3mR3vjZgjOpDxVGpQ
+2026-03-20 10:50:05.315 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 10:50:05.321 [http-nio-8081-exec-3] INFO  com.example.ccc.aspect.ReminderLogAspect - 【AOP审计】用户 2 主动查询了即将过期的任务列表
+2026-03-20 10:50:05.322 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 10:50:06.861 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5ODIyMDN9.iOcUlU6nSsiwGqXHSQTj_b0bpWEklLPXIseZvxLShKIvs5ppBoLIYYDEDVy3ea9TJ9V3-3mR3vjZgjOpDxVGpQ
+2026-03-20 10:50:06.862 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 10:50:06.869 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 10:50:11.443 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5ODIyMDN9.iOcUlU6nSsiwGqXHSQTj_b0bpWEklLPXIseZvxLShKIvs5ppBoLIYYDEDVy3ea9TJ9V3-3mR3vjZgjOpDxVGpQ
+2026-03-20 10:50:11.445 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 10:50:12.134 [ai-task-1] INFO  com.example.ccc.service.AiAsyncService - 异步触发AI分析任务: submissionId=14
+2026-03-20 10:50:12.137 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 10:50:12.167 [ai-task-1] INFO  com.example.ccc.service.AiAsyncService - AI分析消息已发送到队列: submissionId=14
+2026-03-20 10:50:12.177 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.consumer.AiAnalysisConsumer - 收到AI分析任务: submissionId=14, taskId=18, fileName=1.docx
+2026-03-20 10:50:16.748 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5ODIyMDN9.iOcUlU6nSsiwGqXHSQTj_b0bpWEklLPXIseZvxLShKIvs5ppBoLIYYDEDVy3ea9TJ9V3-3mR3vjZgjOpDxVGpQ
+2026-03-20 10:50:16.750 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 10:50:16.755 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 10:50:17.081 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5ODIyMDN9.iOcUlU6nSsiwGqXHSQTj_b0bpWEklLPXIseZvxLShKIvs5ppBoLIYYDEDVy3ea9TJ9V3-3mR3vjZgjOpDxVGpQ
+2026-03-20 10:50:17.083 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 10:50:17.088 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 10:50:27.289 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] ERROR com.example.ccc.service.AiPlagiarismChecker - 解析AI响应失败: {
+    "similarity_score": 98,
+    "similar_parts": [
+        "PK     ! ߤlZ      [Content_Types].xml",
+        "PK     !    N   _rels/.rels",
+        "PK     ! ,Mu=  E     word/document.xml",
+        "PK     ! dQ   1   word/_rels/document.xml.rels",
+        "PK     ! `;S        word/theme/theme1.xml",
+        "PK     ! P  x     word/settings.xml",
+        "PK     ! hb  O     word/styles.xml"
+    ],
+    "possible_sources": [
+        "Microsoft Office Open XML (OOXML) file structure (ISO/IEC 29500)",
+        "ZIP archive signature of .docx/.xlsx/.pptx files",
+        "Standard OPC (Office Open Packaging Convention) container metadata files"
+    ],
+    "summary": "该文本并非自然语言内容，而是典型的Microsoft Office Open XML（.docx）文件的二进制ZIP容器头部及内部XML部件路径的原始字节转义表示（含PK签名、本地文件头、压缩数据片段及乱码Unicode/UTF-8解码残留）。所有'PK\\x03\\x04'开头的行均为标准ZIP文件格式签名，后续路径如'[Content_Types].xml'、'word/document.xml'等是OOXML规范强制要求的固定结构文件。此类内容在任意.docx文件的十六进制/原始流视图中均完全一致，属于公开格式标准，无实际语义或学术原创性；其高相似度（98%）源于对国际标准（ECMA-376 / ISO/IEC 29500）的严格遵循，而非抄袭行为。不构成学术不端，但作为‘文本’提交属严重格式错误。"
+}
+com.fasterxml.jackson.core.JsonParseException: Illegal unquoted character ((CTRL-CHAR, code 3)): has to be escaped using backslash to be included in string value
+ at [Source: (String)"{
+    "similarity_score": 98,
+    "similar_parts": [
+        "PK\u0003\u0004\u0014\u0000\u0006\u0000\u0008\u0000\u0000\u0000!\u0000ߤlZ\u0001\u0000\u0000 \u0005\u0000\u0000\u0013\u0000\u0008\u0002[Content_Types].xml",
+        "PK\u0003\u0004\u0014\u0000\u0006\u0000\u0008\u0000\u0000\u0000!\u0000\u001E\u001A\u0000\u0000\u0000N\u0002\u0000\u0000\u000B\u0000\u0008\u0002_rels/.rels",
+        "PK\u0003\u0004\u0014\u0000\u0006\u0000\u0008\u0000\u0000\u0000!\u0000,Mu=\u0003\u0000\u0000E\u000C\u0000\u0000\u0011\u0000\u0000\u0000word/document.xml",
+        "PK\u0003\u0004\u0014\u0000\u0006\u0000\u0008\u0000\u0000\u0000!\u0000dQ\u0000\u0000\u00001\u0003\u0000\u0000\u001C\u0000\u0008\u0001word/_rels/document.xml.rels",
+        "PK\u0003\u0004\u0014\u0000\u0006\u0000\u0008\u0000\u0000\u0000!\u0000`;S\u0006\u0000\u0000 \u0000\u0000\u0015\u0000\u0000\u0000word/theme/theme1.xml",
+        "PK\u0003\u0004\u0014\u0000\u0006\u0000\u0008\u0000\u0000\u0000!\u0000P\u0017\u0005\u0000\u0000x\u000E\u0000\u0000\u0011\u0000\u0000\u0000word/settings.xml",
+        "PK\u0003\u0004\u0014\u0000\u0006\u0000\u0008\u0000\u0000\u0000!\u0000hb\u000F\u0000\u0000O\u0000\u0000\u000F\u0000\u0000\u0000word/styles.xml"
+    ],
+    "possible_sources": [
+        "Mic"[truncated 590 chars]; line: 4, column: 13]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:2477)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:750)
+	at com.fasterxml.jackson.core.base.ParserBase._throwUnquotedSpace(ParserBase.java:1374)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser._finishString2(ReaderBasedJsonParser.java:2235)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser._finishString(ReaderBasedJsonParser.java:2206)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getText(ReaderBasedJsonParser.java:323)
+	at com.fasterxml.jackson.databind.deser.std.UntypedObjectDeserializerNR._deserializeNR(UntypedObjectDeserializerNR.java:300)
+	at com.fasterxml.jackson.databind.deser.std.UntypedObjectDeserializerNR.deserialize(UntypedObjectDeserializerNR.java:79)
+	at com.fasterxml.jackson.databind.deser.std.MapDeserializer._readAndBindStringKeyMap(MapDeserializer.java:623)
+	at com.fasterxml.jackson.databind.deser.std.MapDeserializer.deserialize(MapDeserializer.java:449)
+	at com.fasterxml.jackson.databind.deser.std.MapDeserializer.deserialize(MapDeserializer.java:32)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:323)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4825)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3772)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3740)
+	at com.example.ccc.service.AiPlagiarismChecker.parseAIResponse(AiPlagiarismChecker.java:183)
+	at com.example.ccc.service.AiPlagiarismChecker.checkPlagiarism(AiPlagiarismChecker.java:72)
+	at com.example.ccc.consumer.AiAnalysisConsumer.handleAiAnalysis(AiAnalysisConsumer.java:30)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:169)
+	at org.springframework.amqp.rabbit.listener.adapter.KotlinAwareInvocableHandlerMethod.doInvoke(KotlinAwareInvocableHandlerMethod.java:45)
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:119)
+	at org.springframework.amqp.rabbit.listener.adapter.HandlerAdapter.invoke(HandlerAdapter.java:75)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:278)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.invokeHandlerAndProcessResult(MessagingMessageListenerAdapter.java:225)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.onMessage(MessagingMessageListenerAdapter.java:149)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doInvokeListener(AbstractMessageListenerContainer.java:1682)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.actualInvokeListener(AbstractMessageListenerContainer.java:1604)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.invokeListener(AbstractMessageListenerContainer.java:1592)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doExecuteListener(AbstractMessageListenerContainer.java:1583)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.executeListenerAndHandleException(AbstractMessageListenerContainer.java:1528)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.lambda$executeListener$8(AbstractMessageListenerContainer.java:1506)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.executeListener(AbstractMessageListenerContainer.java:1506)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.doReceiveAndExecute(SimpleMessageListenerContainer.java:1084)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.receiveAndExecute(SimpleMessageListenerContainer.java:1020)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.mainLoop(SimpleMessageListenerContainer.java:1422)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.run(SimpleMessageListenerContainer.java:1324)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-03-20 10:50:27.297 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiPlagiarismChecker - 查重完成 submissionId=14, score=0.0
+2026-03-20 10:50:33.022 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiGradingService - AI初评完成 submissionId=14
+2026-03-20 10:50:33.022 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.consumer.AiAnalysisConsumer - AI分析任务完成: submissionId=14
+2026-03-20 10:50:41.695 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5ODIyMDN9.iOcUlU6nSsiwGqXHSQTj_b0bpWEklLPXIseZvxLShKIvs5ppBoLIYYDEDVy3ea9TJ9V3-3mR3vjZgjOpDxVGpQ
+2026-03-20 10:50:41.697 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 10:50:47.253 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 11:02:33.987 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5ODIyMDN9.iOcUlU6nSsiwGqXHSQTj_b0bpWEklLPXIseZvxLShKIvs5ppBoLIYYDEDVy3ea9TJ9V3-3mR3vjZgjOpDxVGpQ
+2026-03-20 11:02:33.989 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 11:02:34.002 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 11:02:34.967 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5ODIyMDN9.iOcUlU6nSsiwGqXHSQTj_b0bpWEklLPXIseZvxLShKIvs5ppBoLIYYDEDVy3ea9TJ9V3-3mR3vjZgjOpDxVGpQ
+2026-03-20 11:02:34.969 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 11:02:34.972 [http-nio-8081-exec-9] INFO  com.example.ccc.aspect.ReminderLogAspect - 【AOP审计】用户 2 主动查询了即将过期的任务列表
+2026-03-20 11:02:34.973 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 11:02:47.839 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4Mjk2N30.bqAQCPRVwc6zFkhd_UBkBWeT5lmPU4u_pcxquEa5oNgTYNzcxAUH_FnWIdqrTCKZKR_EcZM6DEHB0wl0z061FQ
+2026-03-20 11:02:47.841 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 11:02:47.846 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 11:02:48.188 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4Mjk2N30.bqAQCPRVwc6zFkhd_UBkBWeT5lmPU4u_pcxquEa5oNgTYNzcxAUH_FnWIdqrTCKZKR_EcZM6DEHB0wl0z061FQ
+2026-03-20 11:02:48.189 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 11:02:48.198 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 11:02:50.643 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4Mjk2N30.bqAQCPRVwc6zFkhd_UBkBWeT5lmPU4u_pcxquEa5oNgTYNzcxAUH_FnWIdqrTCKZKR_EcZM6DEHB0wl0z061FQ
+2026-03-20 11:02:50.645 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 11:02:50.650 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 11:02:53.151 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4Mjk2N30.bqAQCPRVwc6zFkhd_UBkBWeT5lmPU4u_pcxquEa5oNgTYNzcxAUH_FnWIdqrTCKZKR_EcZM6DEHB0wl0z061FQ
+2026-03-20 11:02:53.153 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 11:02:53.154 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 11:02:53.174 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4Mjk2N30.bqAQCPRVwc6zFkhd_UBkBWeT5lmPU4u_pcxquEa5oNgTYNzcxAUH_FnWIdqrTCKZKR_EcZM6DEHB0wl0z061FQ
+2026-03-20 11:02:53.175 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 11:02:53.181 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 11:02:53.515 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4Mjk2N30.bqAQCPRVwc6zFkhd_UBkBWeT5lmPU4u_pcxquEa5oNgTYNzcxAUH_FnWIdqrTCKZKR_EcZM6DEHB0wl0z061FQ
+2026-03-20 11:02:53.517 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 11:02:53.532 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 11:03:04.525 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4Mjk2N30.bqAQCPRVwc6zFkhd_UBkBWeT5lmPU4u_pcxquEa5oNgTYNzcxAUH_FnWIdqrTCKZKR_EcZM6DEHB0wl0z061FQ
+2026-03-20 11:03:04.527 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 11:03:04.530 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 11:03:04.847 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4Mjk2N30.bqAQCPRVwc6zFkhd_UBkBWeT5lmPU4u_pcxquEa5oNgTYNzcxAUH_FnWIdqrTCKZKR_EcZM6DEHB0wl0z061FQ
+2026-03-20 11:03:04.849 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 11:03:04.852 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 11:03:05.113 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4Mjk2N30.bqAQCPRVwc6zFkhd_UBkBWeT5lmPU4u_pcxquEa5oNgTYNzcxAUH_FnWIdqrTCKZKR_EcZM6DEHB0wl0z061FQ
+2026-03-20 11:03:05.115 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 11:03:05.119 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 11:03:09.327 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4Mjk2N30.bqAQCPRVwc6zFkhd_UBkBWeT5lmPU4u_pcxquEa5oNgTYNzcxAUH_FnWIdqrTCKZKR_EcZM6DEHB0wl0z061FQ
+2026-03-20 11:03:09.329 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 11:03:09.338 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 12:16:02.023 [AMQP Connection 127.0.0.1:5672] WARN  c.rabbitmq.client.impl.ForgivingExceptionHandler - An unexpected connection driver error occurred (Exception message: Connection reset)
+2026-03-20 12:16:02.121 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#1-1] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@24b6b1fb: tags=[[amq.ctag-aNizULIiM4qLwz-MRkaUvw]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,2), conn: Proxy@403b327e Shared Rabbit Connection: SimpleConnection@3cbba432 [delegate=amqp://guest@127.0.0.1:5672/, localPort=63386], acknowledgeMode=AUTO local queue size=0
+2026-03-20 12:16:02.119 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-1] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@91bafee: tags=[[amq.ctag-PAF41mAscgRLnVuAu7FT6Q]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,3), conn: Proxy@403b327e Shared Rabbit Connection: SimpleConnection@3cbba432 [delegate=amqp://guest@127.0.0.1:5672/, localPort=63386], acknowledgeMode=AUTO local queue size=0
+2026-03-20 12:16:02.128 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-1] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@1b50fb83: tags=[[amq.ctag-oNRZBshMPFC27OsJWuUFjQ]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,4), conn: Proxy@403b327e Shared Rabbit Connection: SimpleConnection@3cbba432 [delegate=amqp://guest@127.0.0.1:5672/, localPort=63386], acknowledgeMode=AUTO local queue size=0
+2026-03-20 12:16:02.150 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-2] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2026-03-20 12:16:02.179 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-2] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#591aa982:1/SimpleConnection@1dacf513 [delegate=amqp://guest@127.0.0.1:5672/, localPort=63090]
+2026-03-20 12:16:03.110 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-1] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@65e73776: tags=[[amq.ctag-kz6HChzdjyXL_t27vTCp8w]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,5), conn: Proxy@403b327e Shared Rabbit Connection: SimpleConnection@1dacf513 [delegate=amqp://guest@127.0.0.1:5672/, localPort=63090], acknowledgeMode=AUTO local queue size=0
+2026-03-20 12:16:03.110 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@5c7c797e: tags=[[amq.ctag-Kj8MmI-oPDik_mVrOFTgug]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,1), conn: Proxy@403b327e Shared Rabbit Connection: SimpleConnection@1dacf513 [delegate=amqp://guest@127.0.0.1:5672/, localPort=63090], acknowledgeMode=AUTO local queue size=0
+2026-03-20 14:22:06.383 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2026-03-20 14:22:06.433 [restartedMain] INFO  com.example.ccc.CccApplication - Starting CccApplication using Java 21 with PID 24024 (G:\实训项目\ccc\target\classes started by 迷人的牛爷爷 in G:\实训项目\ccc)
+2026-03-20 14:22:06.433 [restartedMain] DEBUG com.example.ccc.CccApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2026-03-20 14:22:06.435 [restartedMain] INFO  com.example.ccc.CccApplication - The following 1 profile is active: "dev"
+2026-03-20 14:22:06.490 [restartedMain] INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\迷人的牛爷爷\.m2\repository\org\apache\opennlp\opennlp-tools\2.5.4\opennlp-tools-2.5.4.jar referenced one or more files that do not exist: file:/C:/Users/迷人的牛爷爷/.m2/repository/org/apache/opennlp/opennlp-tools/2.5.4/slf4j-api-2.0.17.jar
+2026-03-20 14:22:06.492 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-03-20 14:22:06.492 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-03-20 14:22:07.868 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-03-20 14:22:07.869 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-03-20 14:22:08.274 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 395 ms. Found 3 JPA repository interfaces.
+2026-03-20 14:22:08.292 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-03-20 14:22:08.294 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-03-20 14:22:08.315 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.TaskRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 14:22:08.315 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.TaskSubmissionRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 14:22:08.315 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.UserRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 14:22:08.315 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2026-03-20 14:22:09.856 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2026-03-20 14:22:09.866 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2026-03-20 14:22:09.869 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-20 14:22:09.869 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2026-03-20 14:22:09.954 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-20 14:22:09.954 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3462 ms
+2026-03-20 14:22:10.283 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-03-20 14:22:10.561 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@169f09b1
+2026-03-20 14:22:10.562 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-03-20 14:22:10.606 [restartedMain] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-03-20 14:22:10.672 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2026-03-20 14:22:10.711 [restartedMain] INFO  o.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-03-20 14:22:10.992 [restartedMain] INFO  o.s.o.j.persistenceunit.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-03-20 14:22:11.066 [restartedMain] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.7.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 8.0.0. Check the community dialects project for available legacy versions.
+2026-03-20 14:22:11.915 [restartedMain] INFO  o.h.e.t.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-20 14:22:11.918 [restartedMain] INFO  o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-03-20 14:22:12.195 [restartedMain] INFO  o.s.data.jpa.repository.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2026-03-20 14:22:13.823 [restartedMain] INFO  org.redisson.Version - Redisson 3.27.0
+2026-03-20 14:22:14.064 [redisson-netty-4-6] INFO  org.redisson.connection.ConnectionsHolder - 1 connections initialized for localhost/127.0.0.1:6379
+2026-03-20 14:22:14.065 [redisson-netty-4-5] INFO  org.redisson.connection.ConnectionsHolder - 1 connections initialized for localhost/127.0.0.1:6379
+2026-03-20 14:22:14.519 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-03-20 14:22:15.554 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2026-03-20 14:22:15.577 [restartedMain] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2026-03-20 14:22:15.695 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2026-03-20 14:22:15.704 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2026-03-20 14:22:15.707 [restartedMain] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2026-03-20 14:22:15.867 [restartedMain] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#467e7ca0:0/SimpleConnection@61b1f0ae [delegate=amqp://guest@127.0.0.1:5672/, localPort=60326]
+2026-03-20 14:22:15.977 [restartedMain] INFO  com.example.ccc.CccApplication - Started CccApplication in 10.109 seconds (process running for 11.417)
+2026-03-20 14:22:15.986 [restartedMain] INFO  com.example.ccc.component.LeaderboardCacheWarmer - Starting leaderboard cache warm-up...
+2026-03-20 14:22:15.986 [restartedMain] INFO  com.example.ccc.service.LeaderboardService - Starting to rebuild leaderboard cache...
+2026-03-20 14:22:16.105 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 14:22:16.105 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业1 (截止时间: 2026-03-20 13:49:00)
+2026-03-20 14:22:16.376 [restartedMain] INFO  com.example.ccc.service.LeaderboardService - Leaderboard cache rebuilt successfully, 1 users cached
+2026-03-20 14:22:16.376 [restartedMain] INFO  com.example.ccc.component.LeaderboardCacheWarmer - Leaderboard cache warm-up completed successfully
+2026-03-20 14:22:16.899 [RMI TCP Connection(2)-10.22.43.204] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-20 14:22:16.899 [RMI TCP Connection(2)-10.22.43.204] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-03-20 14:22:16.901 [RMI TCP Connection(2)-10.22.43.204] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2026-03-20 14:23:15.985 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 14:23:15.985 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业1 (截止时间: 2026-03-20 13:49:00)
+2026-03-20 14:23:18.969 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk4Mjk2N30.bqAQCPRVwc6zFkhd_UBkBWeT5lmPU4u_pcxquEa5oNgTYNzcxAUH_FnWIdqrTCKZKR_EcZM6DEHB0wl0z061FQ
+2026-03-20 14:23:19.005 [http-nio-8081-exec-1] WARN  com.example.ccc.interceptor.LoginInterceptor - 令牌解析失败，响应401
+2026-03-20 14:23:27.102 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk5NTAwNn0.Zy3aKF9F07VJeufsToPZVJDru7LJ6dm_-4sDVhHCq34UmaTOcXpK6zUr7I8McH7k60JTzJa-X9YJYm_7A2y0UA
+2026-03-20 14:23:27.104 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 14:23:27.144 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 14:23:27.477 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk5NTAwNn0.Zy3aKF9F07VJeufsToPZVJDru7LJ6dm_-4sDVhHCq34UmaTOcXpK6zUr7I8McH7k60JTzJa-X9YJYm_7A2y0UA
+2026-03-20 14:23:27.478 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 14:23:27.527 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 14:23:33.037 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk5NTAwNn0.Zy3aKF9F07VJeufsToPZVJDru7LJ6dm_-4sDVhHCq34UmaTOcXpK6zUr7I8McH7k60JTzJa-X9YJYm_7A2y0UA
+2026-03-20 14:23:33.039 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 14:23:33.048 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 14:23:35.359 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk5NTAwNn0.Zy3aKF9F07VJeufsToPZVJDru7LJ6dm_-4sDVhHCq34UmaTOcXpK6zUr7I8McH7k60JTzJa-X9YJYm_7A2y0UA
+2026-03-20 14:23:35.361 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 14:23:35.373 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 14:23:35.399 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk5NTAwNn0.Zy3aKF9F07VJeufsToPZVJDru7LJ6dm_-4sDVhHCq34UmaTOcXpK6zUr7I8McH7k60JTzJa-X9YJYm_7A2y0UA
+2026-03-20 14:23:35.400 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 14:23:35.409 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 14:23:35.740 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk5NTAwNn0.Zy3aKF9F07VJeufsToPZVJDru7LJ6dm_-4sDVhHCq34UmaTOcXpK6zUr7I8McH7k60JTzJa-X9YJYm_7A2y0UA
+2026-03-20 14:23:35.743 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 14:23:35.758 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 14:23:42.665 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk5NTAwNn0.Zy3aKF9F07VJeufsToPZVJDru7LJ6dm_-4sDVhHCq34UmaTOcXpK6zUr7I8McH7k60JTzJa-X9YJYm_7A2y0UA
+2026-03-20 14:23:42.667 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 14:23:42.679 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 14:24:04.872 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk5NTAwNn0.Zy3aKF9F07VJeufsToPZVJDru7LJ6dm_-4sDVhHCq34UmaTOcXpK6zUr7I8McH7k60JTzJa-X9YJYm_7A2y0UA
+2026-03-20 14:24:04.874 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 14:24:04.922 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 14:24:05.551 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MywidXNlcm5hbWUiOiJqaiIsImV4cCI6MTc3Mzk5NTAwNn0.Zy3aKF9F07VJeufsToPZVJDru7LJ6dm_-4sDVhHCq34UmaTOcXpK6zUr7I8McH7k60JTzJa-X9YJYm_7A2y0UA
+2026-03-20 14:24:05.552 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 14:24:05.568 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 14:24:12.502 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5OTUwNTJ9.Jtr2ILGiNZBNbCKMbYTZNtvaSJpNjeM50cHbyKEtNYISKtzZXleZzvH8uqgX1GM5rI4_K7N0aFtj0LKx_cXTSw
+2026-03-20 14:24:12.502 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 14:24:12.510 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 14:24:12.836 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5OTUwNTJ9.Jtr2ILGiNZBNbCKMbYTZNtvaSJpNjeM50cHbyKEtNYISKtzZXleZzvH8uqgX1GM5rI4_K7N0aFtj0LKx_cXTSw
+2026-03-20 14:24:12.838 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 14:24:12.847 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 14:24:14.149 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5OTUwNTJ9.Jtr2ILGiNZBNbCKMbYTZNtvaSJpNjeM50cHbyKEtNYISKtzZXleZzvH8uqgX1GM5rI4_K7N0aFtj0LKx_cXTSw
+2026-03-20 14:24:14.151 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 14:24:14.157 [http-nio-8081-exec-5] INFO  com.example.ccc.aspect.ReminderLogAspect - 【AOP审计】用户 2 主动查询了即将过期的任务列表
+2026-03-20 14:24:14.159 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 14:24:15.935 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5OTUwNTJ9.Jtr2ILGiNZBNbCKMbYTZNtvaSJpNjeM50cHbyKEtNYISKtzZXleZzvH8uqgX1GM5rI4_K7N0aFtj0LKx_cXTSw
+2026-03-20 14:24:15.936 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 14:24:15.942 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 14:24:15.982 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 14:24:15.982 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业1 (截止时间: 2026-03-20 13:49:00)
+2026-03-20 14:25:04.498 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5OTUwNTJ9.Jtr2ILGiNZBNbCKMbYTZNtvaSJpNjeM50cHbyKEtNYISKtzZXleZzvH8uqgX1GM5rI4_K7N0aFtj0LKx_cXTSw
+2026-03-20 14:25:04.499 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 14:25:06.013 [ai-task-1] INFO  com.example.ccc.service.AiAsyncService - 异步触发AI分析任务: submissionId=15
+2026-03-20 14:25:06.015 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 14:25:06.051 [ai-task-1] INFO  com.example.ccc.service.AiAsyncService - AI分析消息已发送到队列: submissionId=15
+2026-03-20 14:25:06.067 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.consumer.AiAnalysisConsumer - 收到AI分析任务: submissionId=15, taskId=19, fileName=1.docx
+2026-03-20 14:25:07.122 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiPlagiarismChecker - 检测到Word文档: 1.docx
+2026-03-20 14:25:07.418 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] ERROR o.s.a.r.listener.SimpleMessageListenerContainer - Consumer thread error, thread abort.
+java.lang.NoSuchFieldError: Class org.openxmlformats.schemas.wordprocessingml.x2006.main.DocumentDocument does not have member field 'org.apache.xmlbeans.impl.schema.DocumentFactory Factory'
+	at org.apache.poi.xwpf.usermodel.XWPFDocument.onDocumentRead(XWPFDocument.java:213)
+	at org.apache.poi.ooxml.POIXMLDocument.load(POIXMLDocument.java:169)
+	at org.apache.poi.xwpf.usermodel.XWPFDocument.<init>(XWPFDocument.java:176)
+	at org.apache.poi.xwpf.usermodel.XWPFDocument.<init>(XWPFDocument.java:160)
+	at com.example.ccc.utils.WordTextExtractor.extractTextFromDocx(WordTextExtractor.java:23)
+	at com.example.ccc.utils.WordTextExtractor.extractText(WordTextExtractor.java:82)
+	at com.example.ccc.service.AiPlagiarismChecker.downloadAndExtractContent(AiPlagiarismChecker.java:118)
+	at com.example.ccc.service.AiPlagiarismChecker.checkPlagiarism(AiPlagiarismChecker.java:67)
+	at com.example.ccc.consumer.AiAnalysisConsumer.handleAiAnalysis(AiAnalysisConsumer.java:30)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:169)
+	at org.springframework.amqp.rabbit.listener.adapter.KotlinAwareInvocableHandlerMethod.doInvoke(KotlinAwareInvocableHandlerMethod.java:45)
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:119)
+	at org.springframework.amqp.rabbit.listener.adapter.HandlerAdapter.invoke(HandlerAdapter.java:75)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:278)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.invokeHandlerAndProcessResult(MessagingMessageListenerAdapter.java:225)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.onMessage(MessagingMessageListenerAdapter.java:149)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doInvokeListener(AbstractMessageListenerContainer.java:1682)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.actualInvokeListener(AbstractMessageListenerContainer.java:1604)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.invokeListener(AbstractMessageListenerContainer.java:1592)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doExecuteListener(AbstractMessageListenerContainer.java:1583)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.executeListenerAndHandleException(AbstractMessageListenerContainer.java:1528)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.lambda$executeListener$8(AbstractMessageListenerContainer.java:1506)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.executeListener(AbstractMessageListenerContainer.java:1506)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.doReceiveAndExecute(SimpleMessageListenerContainer.java:1084)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.receiveAndExecute(SimpleMessageListenerContainer.java:1020)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.mainLoop(SimpleMessageListenerContainer.java:1422)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.run(SimpleMessageListenerContainer.java:1324)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-03-20 14:25:07.430 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 14:25:07.431 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#1-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 14:25:07.431 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 14:25:07.433 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 14:25:07.433 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 14:25:07.451 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 14:25:07.451 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 14:25:08.430 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#1-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 14:25:08.430 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 14:25:12.444 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Workers not finished.
+2026-03-20 14:25:12.444 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Closing channel for unresponsive consumer: Consumer@99b7a8b: tags=[[amq.ctag-mbYhesb3CdfE08aJP491PA]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,1), conn: Proxy@4b187c02 Shared Rabbit Connection: SimpleConnection@61b1f0ae [delegate=amqp://guest@127.0.0.1:5672/, localPort=60326], acknowledgeMode=AUTO local queue size=0
+2026-03-20 14:25:12.594 [SpringApplicationShutdownHook] INFO  o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-03-20 14:25:12.598 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-03-20 14:25:12.602 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-03-20 18:29:51.424 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2026-03-20 18:29:51.468 [restartedMain] INFO  com.example.ccc.CccApplication - Starting CccApplication using Java 21 with PID 8036 (G:\实训项目\ccc\target\classes started by 迷人的牛爷爷 in G:\实训项目\ccc)
+2026-03-20 18:29:51.468 [restartedMain] DEBUG com.example.ccc.CccApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2026-03-20 18:29:51.469 [restartedMain] INFO  com.example.ccc.CccApplication - The following 1 profile is active: "dev"
+2026-03-20 18:29:51.525 [restartedMain] INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\迷人的牛爷爷\.m2\repository\org\apache\opennlp\opennlp-tools\2.5.4\opennlp-tools-2.5.4.jar referenced one or more files that do not exist: file:/C:/Users/迷人的牛爷爷/.m2/repository/org/apache/opennlp/opennlp-tools/2.5.4/slf4j-api-2.0.17.jar
+2026-03-20 18:29:51.525 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-03-20 18:29:51.525 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-03-20 18:29:53.379 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-03-20 18:29:53.382 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-03-20 18:29:53.769 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 370 ms. Found 3 JPA repository interfaces.
+2026-03-20 18:29:53.784 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-03-20 18:29:53.785 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-03-20 18:29:53.805 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.TaskRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 18:29:53.805 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.TaskSubmissionRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 18:29:53.805 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.UserRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 18:29:53.805 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2026-03-20 18:29:55.022 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2026-03-20 18:29:55.032 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2026-03-20 18:29:55.035 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-20 18:29:55.035 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2026-03-20 18:29:55.123 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-20 18:29:55.123 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3598 ms
+2026-03-20 18:29:55.452 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-03-20 18:29:55.743 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6678298c
+2026-03-20 18:29:55.745 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-03-20 18:29:55.780 [restartedMain] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-03-20 18:29:55.847 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2026-03-20 18:29:55.887 [restartedMain] INFO  o.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-03-20 18:29:56.150 [restartedMain] INFO  o.s.o.j.persistenceunit.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-03-20 18:29:56.232 [restartedMain] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.7.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 8.0.0. Check the community dialects project for available legacy versions.
+2026-03-20 18:29:57.095 [restartedMain] INFO  o.h.e.t.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-20 18:29:57.098 [restartedMain] INFO  o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-03-20 18:29:57.400 [restartedMain] INFO  o.s.data.jpa.repository.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2026-03-20 18:29:59.039 [restartedMain] INFO  org.redisson.Version - Redisson 3.27.0
+2026-03-20 18:29:59.277 [redisson-netty-4-5] INFO  org.redisson.connection.ConnectionsHolder - 1 connections initialized for localhost/127.0.0.1:6379
+2026-03-20 18:29:59.277 [redisson-netty-4-6] INFO  org.redisson.connection.ConnectionsHolder - 1 connections initialized for localhost/127.0.0.1:6379
+2026-03-20 18:29:59.744 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-03-20 18:30:00.845 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2026-03-20 18:30:00.858 [restartedMain] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2026-03-20 18:30:00.980 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2026-03-20 18:30:00.994 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2026-03-20 18:30:00.997 [restartedMain] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2026-03-20 18:30:01.132 [restartedMain] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#1f1ffe78:0/SimpleConnection@1e6e1cf [delegate=amqp://guest@127.0.0.1:5672/, localPort=63382]
+2026-03-20 18:30:01.267 [restartedMain] INFO  com.example.ccc.CccApplication - Started CccApplication in 10.346 seconds (process running for 11.613)
+2026-03-20 18:30:01.280 [restartedMain] INFO  com.example.ccc.component.LeaderboardCacheWarmer - Starting leaderboard cache warm-up...
+2026-03-20 18:30:01.280 [restartedMain] INFO  com.example.ccc.service.LeaderboardService - Starting to rebuild leaderboard cache...
+2026-03-20 18:30:01.283 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.consumer.AiAnalysisConsumer - 收到AI分析任务: submissionId=15, taskId=19, fileName=1.docx
+2026-03-20 18:30:01.667 [restartedMain] INFO  com.example.ccc.service.LeaderboardService - Leaderboard cache rebuilt successfully, 1 users cached
+2026-03-20 18:30:01.667 [restartedMain] INFO  com.example.ccc.component.LeaderboardCacheWarmer - Leaderboard cache warm-up completed successfully
+2026-03-20 18:30:01.839 [RMI TCP Connection(3)-10.22.43.204] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-20 18:30:01.839 [RMI TCP Connection(3)-10.22.43.204] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-03-20 18:30:01.840 [RMI TCP Connection(3)-10.22.43.204] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2026-03-20 18:30:02.015 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiPlagiarismChecker - 检测到Word文档: 1.docx
+2026-03-20 18:30:05.000 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiPlagiarismChecker - 查重完成 submissionId=15, score=0.0
+2026-03-20 18:30:05.154 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiGradingService - 检测到Word文档: 1.docx
+2026-03-20 18:30:11.202 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiGradingService - AI初评完成 submissionId=15
+2026-03-20 18:30:11.203 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.consumer.AiAnalysisConsumer - AI分析任务完成: submissionId=15
+2026-03-20 18:30:41.417 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJuaXUiLCJleHAiOjE3NzM5OTUwNTJ9.Jtr2ILGiNZBNbCKMbYTZNtvaSJpNjeM50cHbyKEtNYISKtzZXleZzvH8uqgX1GM5rI4_K7N0aFtj0LKx_cXTSw
+2026-03-20 18:30:41.459 [http-nio-8081-exec-1] WARN  com.example.ccc.interceptor.LoginInterceptor - 令牌解析失败，响应401
+2026-03-20 18:30:42.308 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：null
+2026-03-20 18:30:42.308 [http-nio-8081-exec-2] WARN  com.example.ccc.interceptor.LoginInterceptor - 请求头中未携带令牌，响应401
+2026-03-20 18:30:54.127 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAwOTg1M30.cG5XASinHEU9d_v2gVFSWVJYt4ZVoaPocn30kYo8OmOXUq_ek5ws56Jb--BnjNAzJe-XaP2DbNI0W1F0IMs82Q
+2026-03-20 18:30:54.130 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:30:54.155 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:30:54.492 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAwOTg1M30.cG5XASinHEU9d_v2gVFSWVJYt4ZVoaPocn30kYo8OmOXUq_ek5ws56Jb--BnjNAzJe-XaP2DbNI0W1F0IMs82Q
+2026-03-20 18:30:54.492 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:30:54.540 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:00.889 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAwOTg1M30.cG5XASinHEU9d_v2gVFSWVJYt4ZVoaPocn30kYo8OmOXUq_ek5ws56Jb--BnjNAzJe-XaP2DbNI0W1F0IMs82Q
+2026-03-20 18:31:00.891 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:31:00.899 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:02.875 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAwOTg1M30.cG5XASinHEU9d_v2gVFSWVJYt4ZVoaPocn30kYo8OmOXUq_ek5ws56Jb--BnjNAzJe-XaP2DbNI0W1F0IMs82Q
+2026-03-20 18:31:02.876 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:31:02.888 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:02.912 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAwOTg1M30.cG5XASinHEU9d_v2gVFSWVJYt4ZVoaPocn30kYo8OmOXUq_ek5ws56Jb--BnjNAzJe-XaP2DbNI0W1F0IMs82Q
+2026-03-20 18:31:02.914 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:31:02.920 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:03.252 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAwOTg1M30.cG5XASinHEU9d_v2gVFSWVJYt4ZVoaPocn30kYo8OmOXUq_ek5ws56Jb--BnjNAzJe-XaP2DbNI0W1F0IMs82Q
+2026-03-20 18:31:03.254 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:31:03.272 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:08.542 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAwOTg1M30.cG5XASinHEU9d_v2gVFSWVJYt4ZVoaPocn30kYo8OmOXUq_ek5ws56Jb--BnjNAzJe-XaP2DbNI0W1F0IMs82Q
+2026-03-20 18:31:08.542 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:31:08.556 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:13.276 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAwOTg1M30.cG5XASinHEU9d_v2gVFSWVJYt4ZVoaPocn30kYo8OmOXUq_ek5ws56Jb--BnjNAzJe-XaP2DbNI0W1F0IMs82Q
+2026-03-20 18:31:13.276 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAwOTg1M30.cG5XASinHEU9d_v2gVFSWVJYt4ZVoaPocn30kYo8OmOXUq_ek5ws56Jb--BnjNAzJe-XaP2DbNI0W1F0IMs82Q
+2026-03-20 18:31:13.277 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:31:13.277 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:31:13.286 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:13.297 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:14.169 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAwOTg1M30.cG5XASinHEU9d_v2gVFSWVJYt4ZVoaPocn30kYo8OmOXUq_ek5ws56Jb--BnjNAzJe-XaP2DbNI0W1F0IMs82Q
+2026-03-20 18:31:14.169 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAwOTg1M30.cG5XASinHEU9d_v2gVFSWVJYt4ZVoaPocn30kYo8OmOXUq_ek5ws56Jb--BnjNAzJe-XaP2DbNI0W1F0IMs82Q
+2026-03-20 18:31:14.171 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:31:14.171 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:31:14.191 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:14.242 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:15.517 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAwOTg1M30.cG5XASinHEU9d_v2gVFSWVJYt4ZVoaPocn30kYo8OmOXUq_ek5ws56Jb--BnjNAzJe-XaP2DbNI0W1F0IMs82Q
+2026-03-20 18:31:15.518 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:31:15.528 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:16.463 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAwOTg1M30.cG5XASinHEU9d_v2gVFSWVJYt4ZVoaPocn30kYo8OmOXUq_ek5ws56Jb--BnjNAzJe-XaP2DbNI0W1F0IMs82Q
+2026-03-20 18:31:16.465 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:31:16.480 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:17.792 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAwOTg1M30.cG5XASinHEU9d_v2gVFSWVJYt4ZVoaPocn30kYo8OmOXUq_ek5ws56Jb--BnjNAzJe-XaP2DbNI0W1F0IMs82Q
+2026-03-20 18:31:17.794 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:31:17.805 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:27.068 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMDk4ODZ9.JBaaVVCziOt1hLYn1LCnnL6JVbRB__olnS8PPJP6ZBM35xHwX0jdrR23H0e4cpluV811xCW6kqm-J3l4xYlL-w
+2026-03-20 18:31:27.070 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:31:27.076 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:27.411 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMDk4ODZ9.JBaaVVCziOt1hLYn1LCnnL6JVbRB__olnS8PPJP6ZBM35xHwX0jdrR23H0e4cpluV811xCW6kqm-J3l4xYlL-w
+2026-03-20 18:31:27.414 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:31:27.425 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:28.720 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMDk4ODZ9.JBaaVVCziOt1hLYn1LCnnL6JVbRB__olnS8PPJP6ZBM35xHwX0jdrR23H0e4cpluV811xCW6kqm-J3l4xYlL-w
+2026-03-20 18:31:28.722 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:31:28.726 [http-nio-8081-exec-2] INFO  com.example.ccc.aspect.ReminderLogAspect - 【AOP审计】用户 2 主动查询了即将过期的任务列表
+2026-03-20 18:31:28.726 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:28.975 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMDk4ODZ9.JBaaVVCziOt1hLYn1LCnnL6JVbRB__olnS8PPJP6ZBM35xHwX0jdrR23H0e4cpluV811xCW6kqm-J3l4xYlL-w
+2026-03-20 18:31:28.977 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:31:28.981 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:33.293 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMDk4ODZ9.JBaaVVCziOt1hLYn1LCnnL6JVbRB__olnS8PPJP6ZBM35xHwX0jdrR23H0e4cpluV811xCW6kqm-J3l4xYlL-w
+2026-03-20 18:31:33.296 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:31:33.546 [ai-task-1] INFO  com.example.ccc.service.AiAsyncService - 异步触发AI分析任务: submissionId=16
+2026-03-20 18:31:33.548 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:33.567 [ai-task-1] INFO  com.example.ccc.service.AiAsyncService - AI分析消息已发送到队列: submissionId=16
+2026-03-20 18:31:33.568 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.consumer.AiAnalysisConsumer - 收到AI分析任务: submissionId=16, taskId=16, fileName=1.docx
+2026-03-20 18:31:33.767 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiPlagiarismChecker - 检测到Word文档: 1.docx
+2026-03-20 18:31:36.412 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiPlagiarismChecker - 查重完成 submissionId=16, score=0.0
+2026-03-20 18:31:36.595 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiGradingService - 检测到Word文档: 1.docx
+2026-03-20 18:31:37.200 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMDk4ODZ9.JBaaVVCziOt1hLYn1LCnnL6JVbRB__olnS8PPJP6ZBM35xHwX0jdrR23H0e4cpluV811xCW6kqm-J3l4xYlL-w
+2026-03-20 18:31:37.201 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:31:37.209 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:37.220 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMDk4ODZ9.JBaaVVCziOt1hLYn1LCnnL6JVbRB__olnS8PPJP6ZBM35xHwX0jdrR23H0e4cpluV811xCW6kqm-J3l4xYlL-w
+2026-03-20 18:31:37.221 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:31:37.227 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:41.906 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiGradingService - AI初评完成 submissionId=16
+2026-03-20 18:31:41.906 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.consumer.AiAnalysisConsumer - AI分析任务完成: submissionId=16
+2026-03-20 18:31:44.723 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMDk4ODZ9.JBaaVVCziOt1hLYn1LCnnL6JVbRB__olnS8PPJP6ZBM35xHwX0jdrR23H0e4cpluV811xCW6kqm-J3l4xYlL-w
+2026-03-20 18:31:44.725 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:31:44.729 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:45.411 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMDk4ODZ9.JBaaVVCziOt1hLYn1LCnnL6JVbRB__olnS8PPJP6ZBM35xHwX0jdrR23H0e4cpluV811xCW6kqm-J3l4xYlL-w
+2026-03-20 18:31:45.412 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:31:45.415 [http-nio-8081-exec-5] INFO  com.example.ccc.aspect.ReminderLogAspect - 【AOP审计】用户 2 主动查询了即将过期的任务列表
+2026-03-20 18:31:45.417 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:47.764 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMDk4ODZ9.JBaaVVCziOt1hLYn1LCnnL6JVbRB__olnS8PPJP6ZBM35xHwX0jdrR23H0e4cpluV811xCW6kqm-J3l4xYlL-w
+2026-03-20 18:31:47.767 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:31:47.775 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:31:48.011 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMDk4ODZ9.JBaaVVCziOt1hLYn1LCnnL6JVbRB__olnS8PPJP6ZBM35xHwX0jdrR23H0e4cpluV811xCW6kqm-J3l4xYlL-w
+2026-03-20 18:31:48.012 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:31:48.015 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:37:34.620 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-03-20 18:37:34.627 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:37:34.628 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#1-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:37:34.628 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:37:34.630 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:37:34.630 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:37:34.693 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:37:34.897 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:37:34.897 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#1-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:37:34.943 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:37:34.943 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:37:34.944 [Thread-6] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8081"]
+2026-03-20 18:37:35.090 [Thread-6] INFO  o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-03-20 18:37:35.093 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-03-20 18:37:35.096 [Thread-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-03-20 18:37:35.788 [restartedMain] INFO  com.example.ccc.CccApplication - Starting CccApplication using Java 21 with PID 8036 (G:\实训项目\ccc\target\classes started by 迷人的牛爷爷 in G:\实训项目\ccc)
+2026-03-20 18:37:35.788 [restartedMain] DEBUG com.example.ccc.CccApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2026-03-20 18:37:35.788 [restartedMain] INFO  com.example.ccc.CccApplication - The following 1 profile is active: "dev"
+2026-03-20 18:37:36.232 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-03-20 18:37:36.232 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-03-20 18:37:36.257 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24 ms. Found 3 JPA repository interfaces.
+2026-03-20 18:37:36.260 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-03-20 18:37:36.260 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-03-20 18:37:36.268 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.TaskRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 18:37:36.268 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.TaskSubmissionRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 18:37:36.268 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.UserRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 18:37:36.268 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 Redis repository interfaces.
+2026-03-20 18:37:36.542 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2026-03-20 18:37:36.543 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2026-03-20 18:37:36.543 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-20 18:37:36.543 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2026-03-20 18:37:36.599 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-20 18:37:36.600 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 810 ms
+2026-03-20 18:37:36.746 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2026-03-20 18:37:36.765 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34ad2c6d
+2026-03-20 18:37:36.765 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2026-03-20 18:37:36.766 [restartedMain] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-03-20 18:37:36.769 [restartedMain] INFO  o.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-03-20 18:37:36.774 [restartedMain] INFO  o.s.o.j.persistenceunit.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-03-20 18:37:36.776 [restartedMain] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.7.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 8.0.0. Check the community dialects project for available legacy versions.
+2026-03-20 18:37:36.854 [restartedMain] INFO  o.h.e.t.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-20 18:37:36.854 [restartedMain] INFO  o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-03-20 18:37:37.249 [restartedMain] INFO  org.redisson.Version - Redisson 3.27.0
+2026-03-20 18:37:37.295 [redisson-netty-12-5] INFO  org.redisson.connection.ConnectionsHolder - 1 connections initialized for localhost/127.0.0.1:6379
+2026-03-20 18:37:37.295 [redisson-netty-12-6] INFO  org.redisson.connection.ConnectionsHolder - 1 connections initialized for localhost/127.0.0.1:6379
+2026-03-20 18:37:37.534 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-03-20 18:37:38.157 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2026-03-20 18:37:38.166 [restartedMain] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2026-03-20 18:37:38.216 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2026-03-20 18:37:38.222 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2026-03-20 18:37:38.222 [restartedMain] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2026-03-20 18:37:38.231 [restartedMain] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#79d83701:0/SimpleConnection@489d5729 [delegate=amqp://guest@127.0.0.1:5672/, localPort=61974]
+2026-03-20 18:37:38.277 [restartedMain] INFO  com.example.ccc.CccApplication - Started CccApplication in 3.104 seconds (process running for 468.622)
+2026-03-20 18:37:38.278 [restartedMain] INFO  com.example.ccc.component.LeaderboardCacheWarmer - Starting leaderboard cache warm-up...
+2026-03-20 18:37:38.278 [restartedMain] INFO  com.example.ccc.service.LeaderboardService - Starting to rebuild leaderboard cache...
+2026-03-20 18:37:38.337 [restartedMain] INFO  com.example.ccc.service.LeaderboardService - Leaderboard cache rebuilt successfully, 1 users cached
+2026-03-20 18:37:38.337 [restartedMain] INFO  com.example.ccc.component.LeaderboardCacheWarmer - Leaderboard cache warm-up completed successfully
+2026-03-20 18:37:38.339 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2026-03-20 18:38:20.133 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-03-20 18:38:20.136 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:38:20.136 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#1-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:38:20.136 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:38:20.137 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:38:20.139 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:38:20.597 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#1-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:38:20.597 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:38:20.597 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:38:20.628 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:38:20.628 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:38:20.628 [Thread-14] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8081"]
+2026-03-20 18:38:20.761 [Thread-14] INFO  o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-03-20 18:38:20.761 [Thread-14] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2026-03-20 18:38:20.764 [Thread-14] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2026-03-20 18:38:21.320 [restartedMain] INFO  com.example.ccc.CccApplication - Starting CccApplication using Java 21 with PID 8036 (G:\实训项目\ccc\target\classes started by 迷人的牛爷爷 in G:\实训项目\ccc)
+2026-03-20 18:38:21.320 [restartedMain] DEBUG com.example.ccc.CccApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2026-03-20 18:38:21.320 [restartedMain] INFO  com.example.ccc.CccApplication - The following 1 profile is active: "dev"
+2026-03-20 18:38:21.626 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-03-20 18:38:21.626 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-03-20 18:38:21.648 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 20 ms. Found 3 JPA repository interfaces.
+2026-03-20 18:38:21.650 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-03-20 18:38:21.650 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-03-20 18:38:21.656 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.TaskRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 18:38:21.657 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.TaskSubmissionRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 18:38:21.657 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.UserRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 18:38:21.657 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2026-03-20 18:38:21.815 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2026-03-20 18:38:21.817 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2026-03-20 18:38:21.817 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-20 18:38:21.817 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2026-03-20 18:38:21.864 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-20 18:38:21.864 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 543 ms
+2026-03-20 18:38:21.984 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Starting...
+2026-03-20 18:38:22.002 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@624fba38
+2026-03-20 18:38:22.002 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Start completed.
+2026-03-20 18:38:22.003 [restartedMain] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-03-20 18:38:22.007 [restartedMain] INFO  o.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-03-20 18:38:22.010 [restartedMain] INFO  o.s.o.j.persistenceunit.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-03-20 18:38:22.011 [restartedMain] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.7.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 8.0.0. Check the community dialects project for available legacy versions.
+2026-03-20 18:38:22.078 [restartedMain] INFO  o.h.e.t.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-20 18:38:22.078 [restartedMain] INFO  o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-03-20 18:38:22.437 [restartedMain] INFO  org.redisson.Version - Redisson 3.27.0
+2026-03-20 18:38:22.480 [redisson-netty-20-5] INFO  org.redisson.connection.ConnectionsHolder - 1 connections initialized for localhost/127.0.0.1:6379
+2026-03-20 18:38:22.480 [redisson-netty-20-6] INFO  org.redisson.connection.ConnectionsHolder - 1 connections initialized for localhost/127.0.0.1:6379
+2026-03-20 18:38:22.670 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-03-20 18:38:23.141 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2026-03-20 18:38:23.147 [restartedMain] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2026-03-20 18:38:23.181 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2026-03-20 18:38:23.184 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2026-03-20 18:38:23.186 [restartedMain] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2026-03-20 18:38:23.189 [restartedMain] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#311844a:0/SimpleConnection@68d93b5a [delegate=amqp://guest@127.0.0.1:5672/, localPort=64843]
+2026-03-20 18:38:23.226 [restartedMain] INFO  com.example.ccc.CccApplication - Started CccApplication in 2.389 seconds (process running for 513.572)
+2026-03-20 18:38:23.228 [restartedMain] INFO  com.example.ccc.component.LeaderboardCacheWarmer - Starting leaderboard cache warm-up...
+2026-03-20 18:38:23.228 [restartedMain] INFO  com.example.ccc.service.LeaderboardService - Starting to rebuild leaderboard cache...
+2026-03-20 18:38:23.277 [restartedMain] INFO  com.example.ccc.service.LeaderboardService - Leaderboard cache rebuilt successfully, 1 users cached
+2026-03-20 18:38:23.277 [restartedMain] INFO  com.example.ccc.component.LeaderboardCacheWarmer - Leaderboard cache warm-up completed successfully
+2026-03-20 18:38:23.279 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2026-03-20 18:39:17.100 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:39:17.101 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#1-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:39:17.102 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:39:17.103 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:39:17.104 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2026-03-20 18:39:17.676 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#1-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:39:17.676 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:39:17.691 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:39:17.721 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:39:17.721 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2026-03-20 18:39:17.856 [SpringApplicationShutdownHook] INFO  o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-03-20 18:39:17.856 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2026-03-20 18:39:17.859 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown completed.
+2026-03-20 18:40:50.608 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2026-03-20 18:40:50.640 [restartedMain] INFO  com.example.ccc.CccApplication - Starting CccApplication using Java 21 with PID 24132 (G:\实训项目\ccc\target\classes started by 迷人的牛爷爷 in G:\实训项目\ccc)
+2026-03-20 18:40:50.641 [restartedMain] DEBUG com.example.ccc.CccApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2026-03-20 18:40:50.641 [restartedMain] INFO  com.example.ccc.CccApplication - The following 1 profile is active: "dev"
+2026-03-20 18:40:50.693 [restartedMain] INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\迷人的牛爷爷\.m2\repository\org\apache\opennlp\opennlp-tools\2.5.4\opennlp-tools-2.5.4.jar referenced one or more files that do not exist: file:/C:/Users/迷人的牛爷爷/.m2/repository/org/apache/opennlp/opennlp-tools/2.5.4/slf4j-api-2.0.17.jar
+2026-03-20 18:40:50.693 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-03-20 18:40:50.693 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-03-20 18:40:52.027 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-03-20 18:40:52.029 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-03-20 18:40:52.313 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 279 ms. Found 3 JPA repository interfaces.
+2026-03-20 18:40:52.330 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-03-20 18:40:52.332 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-03-20 18:40:52.350 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.TaskRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 18:40:52.350 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.TaskSubmissionRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 18:40:52.350 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.example.ccc.repository.UserRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2026-03-20 18:40:52.350 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2026-03-20 18:40:53.317 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2026-03-20 18:40:53.327 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2026-03-20 18:40:53.329 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-20 18:40:53.329 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2026-03-20 18:40:53.405 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-20 18:40:53.405 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2712 ms
+2026-03-20 18:40:53.689 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-03-20 18:40:54.016 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@40251129
+2026-03-20 18:40:54.017 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-03-20 18:40:54.055 [restartedMain] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-03-20 18:40:54.134 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2026-03-20 18:40:54.187 [restartedMain] INFO  o.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-03-20 18:40:54.478 [restartedMain] INFO  o.s.o.j.persistenceunit.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-03-20 18:40:54.577 [restartedMain] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.7.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 8.0.0. Check the community dialects project for available legacy versions.
+2026-03-20 18:40:55.470 [restartedMain] INFO  o.h.e.t.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-20 18:40:55.473 [restartedMain] INFO  o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-03-20 18:40:55.738 [restartedMain] INFO  o.s.data.jpa.repository.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2026-03-20 18:40:57.272 [restartedMain] INFO  org.redisson.Version - Redisson 3.27.0
+2026-03-20 18:40:57.504 [redisson-netty-4-5] INFO  org.redisson.connection.ConnectionsHolder - 1 connections initialized for localhost/127.0.0.1:6379
+2026-03-20 18:40:57.505 [redisson-netty-4-6] INFO  org.redisson.connection.ConnectionsHolder - 1 connections initialized for localhost/127.0.0.1:6379
+2026-03-20 18:40:57.896 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-03-20 18:40:58.783 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2026-03-20 18:40:58.800 [restartedMain] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2026-03-20 18:40:58.918 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2026-03-20 18:40:58.927 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2026-03-20 18:40:58.930 [restartedMain] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2026-03-20 18:40:58.971 [restartedMain] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#53aca2d8:0/SimpleConnection@6c95a2d3 [delegate=amqp://guest@127.0.0.1:5672/, localPort=50507]
+2026-03-20 18:40:59.087 [restartedMain] INFO  com.example.ccc.CccApplication - Started CccApplication in 8.92 seconds (process running for 9.991)
+2026-03-20 18:40:59.096 [restartedMain] INFO  com.example.ccc.component.LeaderboardCacheWarmer - Starting leaderboard cache warm-up...
+2026-03-20 18:40:59.096 [restartedMain] INFO  com.example.ccc.service.LeaderboardService - Starting to rebuild leaderboard cache...
+2026-03-20 18:40:59.500 [restartedMain] INFO  com.example.ccc.service.LeaderboardService - Leaderboard cache rebuilt successfully, 1 users cached
+2026-03-20 18:40:59.500 [restartedMain] INFO  com.example.ccc.component.LeaderboardCacheWarmer - Leaderboard cache warm-up completed successfully
+2026-03-20 18:40:59.686 [RMI TCP Connection(9)-10.22.43.204] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-20 18:40:59.686 [RMI TCP Connection(9)-10.22.43.204] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-03-20 18:40:59.687 [RMI TCP Connection(9)-10.22.43.204] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2026-03-20 18:41:45.756 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA1MDV9.2h4roKzFrJ_3u4Idqg4Y12rUWbd2sU_dvj9RhuJ2fazWYSVZRKJaLEkWs6H0EzUt6HK46RNS87A214hWjKZ5RA
+2026-03-20 18:41:45.768 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:41:45.817 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:41:46.463 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA1MDV9.2h4roKzFrJ_3u4Idqg4Y12rUWbd2sU_dvj9RhuJ2fazWYSVZRKJaLEkWs6H0EzUt6HK46RNS87A214hWjKZ5RA
+2026-03-20 18:41:46.465 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:41:46.501 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:41:47.158 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA1MDV9.2h4roKzFrJ_3u4Idqg4Y12rUWbd2sU_dvj9RhuJ2fazWYSVZRKJaLEkWs6H0EzUt6HK46RNS87A214hWjKZ5RA
+2026-03-20 18:41:47.159 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:41:47.165 [http-nio-8081-exec-2] INFO  com.example.ccc.aspect.ReminderLogAspect - 【AOP审计】用户 2 主动查询了即将过期的任务列表
+2026-03-20 18:41:47.167 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:41:50.203 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA1MDV9.2h4roKzFrJ_3u4Idqg4Y12rUWbd2sU_dvj9RhuJ2fazWYSVZRKJaLEkWs6H0EzUt6HK46RNS87A214hWjKZ5RA
+2026-03-20 18:41:50.204 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:41:50.213 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:41:50.447 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA1MDV9.2h4roKzFrJ_3u4Idqg4Y12rUWbd2sU_dvj9RhuJ2fazWYSVZRKJaLEkWs6H0EzUt6HK46RNS87A214hWjKZ5RA
+2026-03-20 18:41:50.449 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:41:50.456 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:41:53.649 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA1MDV9.2h4roKzFrJ_3u4Idqg4Y12rUWbd2sU_dvj9RhuJ2fazWYSVZRKJaLEkWs6H0EzUt6HK46RNS87A214hWjKZ5RA
+2026-03-20 18:41:53.651 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:41:53.666 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:41:54.957 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA1MDV9.2h4roKzFrJ_3u4Idqg4Y12rUWbd2sU_dvj9RhuJ2fazWYSVZRKJaLEkWs6H0EzUt6HK46RNS87A214hWjKZ5RA
+2026-03-20 18:41:54.959 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:41:54.963 [http-nio-8081-exec-8] INFO  com.example.ccc.aspect.ReminderLogAspect - 【AOP审计】用户 2 主动查询了即将过期的任务列表
+2026-03-20 18:41:54.963 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:41:56.298 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA1MDV9.2h4roKzFrJ_3u4Idqg4Y12rUWbd2sU_dvj9RhuJ2fazWYSVZRKJaLEkWs6H0EzUt6HK46RNS87A214hWjKZ5RA
+2026-03-20 18:41:56.299 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:41:56.309 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:41:56.639 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA1MDV9.2h4roKzFrJ_3u4Idqg4Y12rUWbd2sU_dvj9RhuJ2fazWYSVZRKJaLEkWs6H0EzUt6HK46RNS87A214hWjKZ5RA
+2026-03-20 18:41:56.641 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:41:56.645 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:42:10.977 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:42:10.979 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:42:10.986 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:42:11.311 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:42:11.312 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:42:11.333 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:42:16.142 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:42:16.144 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:42:16.152 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:42:17.882 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:42:17.885 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:42:17.887 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:42:18.214 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:42:18.216 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:42:18.223 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:42:18.465 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:42:18.467 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:42:18.479 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:42:24.685 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:42:24.687 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:42:24.700 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:42:26.865 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:42:26.865 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:42:26.866 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:42:26.866 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:42:26.872 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:42:26.882 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:42:27.234 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:42:27.236 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:42:27.297 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:42:27.539 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:42:27.540 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:42:27.556 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:42:28.788 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:42:28.790 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:42:28.799 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:42:29.766 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:42:29.767 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:42:29.776 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:43:13.536 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:43:13.539 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:43:13.582 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:43:14.218 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDUzMH0.n5lq-ujvUHeGw_oln5SKwqbEFlreIN1KWFx-RKGz52hQT1JG6A37vaXq7BKhy-5QcBUiVmq_z5sta8bLxSbitw
+2026-03-20 18:43:14.220 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:43:14.231 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:43:20.835 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA2MDB9.YKWvs-NJGCb43PhipH4Z9469rKPpUBeeWdRIf2BDJnlJgO6FLrw-qADKW-LYZk-JaSQ14oRZLFyrPEjrrTX3yA
+2026-03-20 18:43:20.837 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:43:20.842 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:43:21.174 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA2MDB9.YKWvs-NJGCb43PhipH4Z9469rKPpUBeeWdRIf2BDJnlJgO6FLrw-qADKW-LYZk-JaSQ14oRZLFyrPEjrrTX3yA
+2026-03-20 18:43:21.177 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:43:21.186 [http-nio-8081-exec-10] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:43:22.486 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA2MDB9.YKWvs-NJGCb43PhipH4Z9469rKPpUBeeWdRIf2BDJnlJgO6FLrw-qADKW-LYZk-JaSQ14oRZLFyrPEjrrTX3yA
+2026-03-20 18:43:22.487 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:43:22.491 [http-nio-8081-exec-9] INFO  com.example.ccc.aspect.ReminderLogAspect - 【AOP审计】用户 2 主动查询了即将过期的任务列表
+2026-03-20 18:43:22.492 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:43:23.808 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA2MDB9.YKWvs-NJGCb43PhipH4Z9469rKPpUBeeWdRIf2BDJnlJgO6FLrw-qADKW-LYZk-JaSQ14oRZLFyrPEjrrTX3yA
+2026-03-20 18:43:23.810 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:43:23.815 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:43:28.689 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA2MDB9.YKWvs-NJGCb43PhipH4Z9469rKPpUBeeWdRIf2BDJnlJgO6FLrw-qADKW-LYZk-JaSQ14oRZLFyrPEjrrTX3yA
+2026-03-20 18:43:28.690 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:43:29.242 [ai-task-1] INFO  com.example.ccc.service.AiAsyncService - 异步触发AI分析任务: submissionId=17
+2026-03-20 18:43:29.243 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:43:29.270 [ai-task-1] INFO  com.example.ccc.service.AiAsyncService - AI分析消息已发送到队列: submissionId=17
+2026-03-20 18:43:29.280 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.consumer.AiAnalysisConsumer - 收到AI分析任务: submissionId=17, taskId=20, fileName=1.docx
+2026-03-20 18:43:29.518 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiPlagiarismChecker - 检测到Word文档: 1.docx
+2026-03-20 18:43:33.503 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiPlagiarismChecker - 查重完成并保存 submissionId=17, score=0.0
+2026-03-20 18:43:33.709 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiGradingService - 检测到Word文档: 1.docx
+2026-03-20 18:43:39.702 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiGradingService - AI初评完成 submissionId=17
+2026-03-20 18:43:39.702 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.consumer.AiAnalysisConsumer - AI分析任务完成: submissionId=17
+2026-03-20 18:44:50.734 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA2MDB9.YKWvs-NJGCb43PhipH4Z9469rKPpUBeeWdRIf2BDJnlJgO6FLrw-qADKW-LYZk-JaSQ14oRZLFyrPEjrrTX3yA
+2026-03-20 18:44:50.736 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:44:50.743 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:44:50.976 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA2MDB9.YKWvs-NJGCb43PhipH4Z9469rKPpUBeeWdRIf2BDJnlJgO6FLrw-qADKW-LYZk-JaSQ14oRZLFyrPEjrrTX3yA
+2026-03-20 18:44:50.978 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:44:50.981 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:46:37.457 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA2MDB9.YKWvs-NJGCb43PhipH4Z9469rKPpUBeeWdRIf2BDJnlJgO6FLrw-qADKW-LYZk-JaSQ14oRZLFyrPEjrrTX3yA
+2026-03-20 18:46:37.458 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:46:37.466 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:46:38.433 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA2MDB9.YKWvs-NJGCb43PhipH4Z9469rKPpUBeeWdRIf2BDJnlJgO6FLrw-qADKW-LYZk-JaSQ14oRZLFyrPEjrrTX3yA
+2026-03-20 18:46:38.442 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:46:38.445 [http-nio-8081-exec-6] INFO  com.example.ccc.aspect.ReminderLogAspect - 【AOP审计】用户 2 主动查询了即将过期的任务列表
+2026-03-20 18:46:38.445 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:46:41.656 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA2MDB9.YKWvs-NJGCb43PhipH4Z9469rKPpUBeeWdRIf2BDJnlJgO6FLrw-qADKW-LYZk-JaSQ14oRZLFyrPEjrrTX3yA
+2026-03-20 18:46:41.658 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:46:41.659 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:46:46.234 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Im5pdSIsImlkIjoyLCJleHAiOjE3NzQwMTA2MDB9.YKWvs-NJGCb43PhipH4Z9469rKPpUBeeWdRIf2BDJnlJgO6FLrw-qADKW-LYZk-JaSQ14oRZLFyrPEjrrTX3yA
+2026-03-20 18:46:46.236 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：2
+2026-03-20 18:46:46.475 [ai-task-2] INFO  com.example.ccc.service.AiAsyncService - 异步触发AI分析任务: submissionId=18
+2026-03-20 18:46:46.477 [http-nio-8081-exec-8] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:46:46.486 [ai-task-2] INFO  com.example.ccc.service.AiAsyncService - AI分析消息已发送到队列: submissionId=18
+2026-03-20 18:46:46.490 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.consumer.AiAnalysisConsumer - 收到AI分析任务: submissionId=18, taskId=20, fileName=1.docx
+2026-03-20 18:46:46.669 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiPlagiarismChecker - 检测到Word文档: 1.docx
+2026-03-20 18:46:49.955 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiPlagiarismChecker - 查重完成并保存 submissionId=18, score=0.0
+2026-03-20 18:46:50.159 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiGradingService - 检测到Word文档: 1.docx
+2026-03-20 18:46:55.501 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.service.AiGradingService - AI初评完成 submissionId=18
+2026-03-20 18:46:55.501 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  com.example.ccc.consumer.AiAnalysisConsumer - AI分析任务完成: submissionId=18
+2026-03-20 18:47:12.849 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDgzMn0.x3V0TcG5nleix_NdsDGUvIrkXn2W36tfqBty00oWEC0bnb9h1dbGkwHnWYrZXdKSs26Pvyyuq5_t6qCYEXnKbg
+2026-03-20 18:47:12.851 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:47:12.857 [http-nio-8081-exec-9] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:47:13.506 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDgzMn0.x3V0TcG5nleix_NdsDGUvIrkXn2W36tfqBty00oWEC0bnb9h1dbGkwHnWYrZXdKSs26Pvyyuq5_t6qCYEXnKbg
+2026-03-20 18:47:13.507 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:47:13.513 [http-nio-8081-exec-1] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:47:15.827 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDgzMn0.x3V0TcG5nleix_NdsDGUvIrkXn2W36tfqBty00oWEC0bnb9h1dbGkwHnWYrZXdKSs26Pvyyuq5_t6qCYEXnKbg
+2026-03-20 18:47:15.828 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:47:15.830 [http-nio-8081-exec-4] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:47:17.870 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDgzMn0.x3V0TcG5nleix_NdsDGUvIrkXn2W36tfqBty00oWEC0bnb9h1dbGkwHnWYrZXdKSs26Pvyyuq5_t6qCYEXnKbg
+2026-03-20 18:47:17.873 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:47:17.874 [http-nio-8081-exec-3] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:47:17.899 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDgzMn0.x3V0TcG5nleix_NdsDGUvIrkXn2W36tfqBty00oWEC0bnb9h1dbGkwHnWYrZXdKSs26Pvyyuq5_t6qCYEXnKbg
+2026-03-20 18:47:17.900 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:47:17.905 [http-nio-8081-exec-2] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:47:18.219 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDgzMn0.x3V0TcG5nleix_NdsDGUvIrkXn2W36tfqBty00oWEC0bnb9h1dbGkwHnWYrZXdKSs26Pvyyuq5_t6qCYEXnKbg
+2026-03-20 18:47:18.219 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDgzMn0.x3V0TcG5nleix_NdsDGUvIrkXn2W36tfqBty00oWEC0bnb9h1dbGkwHnWYrZXdKSs26Pvyyuq5_t6qCYEXnKbg
+2026-03-20 18:47:18.221 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:47:18.221 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:47:18.226 [http-nio-8081-exec-6] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:47:18.226 [http-nio-8081-exec-5] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 18:47:18.482 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 拦截器接收令牌：eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6ImpqIiwiaWQiOjMsImV4cCI6MTc3NDAxMDgzMn0.x3V0TcG5nleix_NdsDGUvIrkXn2W36tfqBty00oWEC0bnb9h1dbGkwHnWYrZXdKSs26Pvyyuq5_t6qCYEXnKbg
+2026-03-20 18:47:18.484 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 当前登录用户ID：3
+2026-03-20 18:47:18.493 [http-nio-8081-exec-7] INFO  com.example.ccc.interceptor.LoginInterceptor - 请求完成，清理ThreadLocal中的用户ID
+2026-03-20 19:24:07.454 [AMQP Connection 127.0.0.1:5672] WARN  c.rabbitmq.client.impl.ForgivingExceptionHandler - An unexpected connection driver error occurred (Exception message: Connection reset)
+2026-03-20 19:24:07.791 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-1] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@71626f2d: tags=[[amq.ctag-EAcr0QUmvYGwxRVIMZ8w-Q]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,5), conn: Proxy@2918b4b5 Shared Rabbit Connection: SimpleConnection@6c95a2d3 [delegate=amqp://guest@127.0.0.1:5672/, localPort=50507], acknowledgeMode=AUTO local queue size=0
+2026-03-20 19:24:07.791 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-1] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@1877bb2f: tags=[[amq.ctag-T9tqft_tfukxgoem7qIa_g]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,3), conn: Proxy@2918b4b5 Shared Rabbit Connection: SimpleConnection@6c95a2d3 [delegate=amqp://guest@127.0.0.1:5672/, localPort=50507], acknowledgeMode=AUTO local queue size=0
+2026-03-20 19:24:07.791 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#1-1] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@54f3b172: tags=[[amq.ctag-Cc96ofEz6OuZxm3FqAgH_A]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,2), conn: Proxy@2918b4b5 Shared Rabbit Connection: SimpleConnection@6c95a2d3 [delegate=amqp://guest@127.0.0.1:5672/, localPort=50507], acknowledgeMode=AUTO local queue size=0
+2026-03-20 19:24:07.791 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-1] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@7ad899a1: tags=[[amq.ctag-xN1PKwA2WAc0h9MPFQ4vag]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,4), conn: Proxy@2918b4b5 Shared Rabbit Connection: SimpleConnection@6c95a2d3 [delegate=amqp://guest@127.0.0.1:5672/, localPort=50507], acknowledgeMode=AUTO local queue size=0
+2026-03-20 19:24:07.794 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-2] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2026-03-20 19:24:07.802 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-2] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#53aca2d8:1/SimpleConnection@1a024edf [delegate=amqp://guest@127.0.0.1:5672/, localPort=50543]
+2026-03-20 19:24:08.289 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@14964392: tags=[[amq.ctag-0OoafEhWNRZzmAEdufx3BA]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,1), conn: Proxy@2918b4b5 Shared Rabbit Connection: SimpleConnection@1a024edf [delegate=amqp://guest@127.0.0.1:5672/, localPort=50543], acknowledgeMode=AUTO local queue size=0
+2026-03-20 19:35:04.320 [AMQP Connection 127.0.0.1:5672] WARN  c.rabbitmq.client.impl.ForgivingExceptionHandler - An unexpected connection driver error occurred (Exception message: Connection reset)
+2026-03-20 19:35:04.374 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@421a0904: tags=[[amq.ctag-ZFlnVbEx3rDEJw4FNn9kKw]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,3), conn: Proxy@2918b4b5 Shared Rabbit Connection: SimpleConnection@1a024edf [delegate=amqp://guest@127.0.0.1:5672/, localPort=50543], acknowledgeMode=AUTO local queue size=0
+2026-03-20 19:35:04.374 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@4535ca6e: tags=[[amq.ctag--MvLPCLQrTBVXZWmEa_KQg]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,1), conn: Proxy@2918b4b5 Shared Rabbit Connection: SimpleConnection@1a024edf [delegate=amqp://guest@127.0.0.1:5672/, localPort=50543], acknowledgeMode=AUTO local queue size=0
+2026-03-20 19:35:04.382 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-3] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2026-03-20 19:35:04.386 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@35162c32: tags=[[amq.ctag-qnsetbSRjRXnoPFEcLpM8Q]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,2), conn: Proxy@2918b4b5 Shared Rabbit Connection: null, acknowledgeMode=AUTO local queue size=0
+2026-03-20 19:35:04.386 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#1-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@4997aa47: tags=[[amq.ctag-K5-xZZOWx741dbmVBtprCw]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,4), conn: Proxy@2918b4b5 Shared Rabbit Connection: null, acknowledgeMode=AUTO local queue size=0
+2026-03-20 19:35:04.405 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-3] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#53aca2d8:2/SimpleConnection@368997b8 [delegate=amqp://guest@127.0.0.1:5672/, localPort=59943]
+2026-03-20 19:35:04.851 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@33b4ab3c: tags=[[amq.ctag-m5SztsAarOfamPq7GNc46w]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,5), conn: Proxy@2918b4b5 Shared Rabbit Connection: SimpleConnection@368997b8 [delegate=amqp://guest@127.0.0.1:5672/, localPort=59943], acknowledgeMode=AUTO local queue size=0
+2026-03-20 19:35:09.774 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m45s361ms497µs200ns).
+2026-03-20 19:35:14.445 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.445 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.448 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.448 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.450 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.450 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.451 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.451 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.452 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.452 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.455 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.455 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.456 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.456 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.460 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.460 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.461 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.461 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.462 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.463 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.463 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.463 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.464 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.464 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.466 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.468 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.469 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.469 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.469 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.469 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.471 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.471 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.472 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.472 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.474 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.474 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.475 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.475 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.477 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.477 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.479 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.479 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.480 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.480 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.482 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.482 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.483 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.483 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.485 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.485 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.485 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.485 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.486 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.486 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.488 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.488 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.490 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.490 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.491 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.491 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.493 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.493 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.494 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.494 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.496 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.496 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.497 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.497 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.499 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.499 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:14.500 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:14.500 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:35:59.090 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:35:59.090 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:36:59.095 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:36:59.097 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:37:59.100 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:37:59.100 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:38:59.103 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:38:59.103 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:39:59.088 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:39:59.088 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:40:59.088 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:40:59.088 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:41:59.102 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:41:59.102 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:42:59.091 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:42:59.091 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:43:59.094 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:43:59.094 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:44:59.094 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:44:59.094 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:45:59.095 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:45:59.095 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:46:59.095 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:46:59.095 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:47:59.100 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:47:59.100 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:48:59.101 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:48:59.101 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:49:59.096 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:49:59.096 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:50:59.092 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:50:59.092 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:51:59.102 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:51:59.102 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:52:59.097 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:52:59.097 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:53:59.097 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:53:59.097 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:54:59.094 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:54:59.094 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:55:59.096 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:55:59.096 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:56:59.100 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:56:59.100 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:57:59.090 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:57:59.090 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:58:59.102 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:58:59.102 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 19:59:59.090 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 19:59:59.090 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 20:00:59.087 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 20:00:59.087 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 20:01:59.091 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 20:01:59.091 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 20:02:59.089 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 20:02:59.089 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 20:03:59.091 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 20:03:59.091 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 20:04:59.092 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 发现 1 个任务刚刚过期！
+2026-03-20 20:04:59.092 [scheduling-1] WARN  com.example.ccc.scheduler.TaskReminderScheduler - 任务过期: 数学作业2 (截止时间: 2026-03-20 19:24:00)
+2026-03-20 21:12:27.073 [AMQP Connection 127.0.0.1:5672] WARN  c.rabbitmq.client.impl.ForgivingExceptionHandler - An unexpected connection driver error occurred (Exception message: Connection reset)
+2026-03-20 21:12:27.299 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-3] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@70396e4c: tags=[[amq.ctag-Bib2SApIVZSK6_MxViTFTA]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,1), conn: Proxy@2918b4b5 Shared Rabbit Connection: SimpleConnection@368997b8 [delegate=amqp://guest@127.0.0.1:5672/, localPort=59943], acknowledgeMode=AUTO local queue size=0
+2026-03-20 21:12:27.313 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-4] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2026-03-20 21:12:27.329 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#2-3] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@97a4240: tags=[[amq.ctag-D22_fpHznjhglbMURPBZGw]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,3), conn: Proxy@2918b4b5 Shared Rabbit Connection: null, acknowledgeMode=AUTO local queue size=0
+2026-03-20 21:12:27.332 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#1-3] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@79dbea61: tags=[[amq.ctag-w0brAUGRerRKFMeOqYwghA]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,4), conn: Proxy@2918b4b5 Shared Rabbit Connection: null, acknowledgeMode=AUTO local queue size=0
+2026-03-20 21:12:27.412 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#4-4] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#53aca2d8:3/SimpleConnection@15f4b98a [delegate=amqp://guest@127.0.0.1:5672/, localPort=65137]
+2026-03-20 21:12:27.502 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#3-3] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@66770ae2: tags=[[amq.ctag-zP6-1e0nDhBCGlW1EO_ayg]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,2), conn: Proxy@2918b4b5 Shared Rabbit Connection: SimpleConnection@15f4b98a [delegate=amqp://guest@127.0.0.1:5672/, localPort=65137], acknowledgeMode=AUTO local queue size=0
+2026-03-20 21:12:27.718 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-3] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@5c6fb37c: tags=[[amq.ctag--ESbFCrq9PPrUvbwjeWbKQ]], channel=Cached Rabbit Channel: AMQChannel(amqp://guest@127.0.0.1:5672/,5), conn: Proxy@2918b4b5 Shared Rabbit Connection: SimpleConnection@15f4b98a [delegate=amqp://guest@127.0.0.1:5672/, localPort=65137], acknowledgeMode=AUTO local queue size=0
+2026-03-20 21:12:38.281 [lettuce-nioEventLoop-9-1] INFO  io.lettuce.core.protocol.CommandHandler - null Unexpected exception during request: java.net.SocketException: Connection reset
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:255)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-03-20 21:12:38.367 [lettuce-eventExecutorLoop-1-2] INFO  io.lettuce.core.protocol.ConnectionWatchdog - Reconnecting, last destination was localhost/127.0.0.1:6379
+2026-03-20 21:12:38.389 [lettuce-nioEventLoop-9-2] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [localhost/<unresolved>:6379]: Connection refused: no further information: localhost/127.0.0.1:6379

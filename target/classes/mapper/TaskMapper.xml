@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.ccc.mapper.TaskMapper">
+
+    <resultMap id="BaseResultMap" type="com.example.ccc.entity.Task">
+        <!-- 开启 map-underscore-to-camel-case 后，大部分字段会自动映射，这里可以手动映射特殊字段或不做处理 -->
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id, user_id, title, description, attachment_url, due_date, priority, status, create_time, update_time
+    </sql>
+
+    <!-- 查询列表 -->
+    <select id="selectByUserId" resultType="com.example.ccc.entity.Task">
+        SELECT <include refid="Base_Column_List"/>
+        FROM task
+        WHERE user_id = #{userId}
+        <if test="status != null">
+            AND status = #{status}
+        </if>
+        <if test="priority != null">
+            AND priority = #{priority}
+        </if>
+        ORDER BY create_time DESC
+    </select>
+
+    <!-- 查询单个 -->
+    <select id="selectByIdAndUser" resultType="com.example.ccc.entity.Task">
+        SELECT <include refid="Base_Column_List"/>
+        FROM task
+        WHERE id = #{id} AND user_id = #{userId}
+    </select>
+
+    <!-- 插入 -->
+    <insert id="insert" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO task (user_id, title, description, attachment_url, due_date, priority, status, create_time, update_time)
+        VALUES (#{userId}, #{title}, #{description}, #{attachmentUrl}, #{dueDate},
+                IFNULL(#{priority}, 0), IFNULL(#{status}, 0), NOW(), NOW())
+    </insert>
+
+    <!-- 更新全部信息 -->
+    <update id="update">
+        UPDATE task
+        <set>
+            <if test="title != null">title = #{title},</if>
+            <if test="description != null">description = #{description},</if>
+            <if test="dueDate != null">due_date = #{dueDate},</if>
+            <if test="priority != null">priority = #{priority},</if>
+            <if test="status != null">status = #{status},</if>
+            update_time = NOW()
+        </set>
+        WHERE id = #{id} AND user_id = #{userId}
+    </update>
+
+    <!-- 单独更新状态 -->
+    <update id="updateStatus">
+        UPDATE task SET status = #{status}, update_time = NOW()
+        WHERE id = #{id} AND user_id = #{userId}
+    </update>
+
+    <!-- 删除 -->
+    <delete id="deleteByIdAndUser">
+        DELETE FROM task WHERE id = #{id} AND user_id = #{userId}
+    </delete>
+    <select id="selectById" resultType="com.example.ccc.entity.Task">
+        SELECT * FROM task WHERE id = #{id}
+    </select>
+
+</mapper>

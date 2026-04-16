@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的成绩单 - 实时同步</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Microsoft YaHei', sans-serif;
+            background: #f5f7fa;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        .connection-panel {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .form-group {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .form-group label {
+            font-weight: 500;
+            min-width: 80px;
+        }
+        
+        .form-group input {
+            flex: 1;
+            padding: 10px 14px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+        
+        .form-group input:focus {
+            outline: none;
+            border-color: #4a90d9;
+            box-shadow: 0 0 0 3px rgba(74,144,217,0.1);
+        }
+        
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .btn-primary {
+            background: #4a90d9;
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background: #3a7bc8;
+        }
+        
+        .btn-primary:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        
+        .btn-danger {
+            background: #e74c3c;
+            color: white;
+        }
+        
+        .btn-danger:hover {
+            background: #c0392b;
+        }
+        
+        .btn-danger:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        
+        .status-bar {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 12px 16px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+        
+        .status-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: #ccc;
+        }
+        
+        .status-dot.connected {
+            background: #27ae60;
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        .notification-area {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            width: 360px;
+            z-index: 1000;
+        }
+        
+        .notification {
+            background: white;
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            animation: slideIn 0.3s ease;
+            border-left: 4px solid #27ae60;
+        }
+        
+        @keyframes slideIn {
+            from {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+        
+        .notification-title {
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .notification-title::before {
+            content: '🔔';
+        }
+        
+        .notification-content {
+            color: #666;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+        
+        .notification-score {
+            display: inline-block;
+            background: #e8f5e9;
+            color: #27ae60;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-weight: 600;
+            margin-top: 8px;
+        }
+        
+        .notification-time {
+            font-size: 12px;
+            color: #999;
+            margin-top: 8px;
+        }
+        
+        .stats-panel {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-around;
+            text-align: center;
+        }
+        
+        .stat-item {
+            padding: 10px 20px;
+        }
+        
+        .stat-value {
+            font-size: 32px;
+            font-weight: 700;
+            color: #4a90d9;
+        }
+        
+        .stat-label {
+            font-size: 14px;
+            color: #666;
+            margin-top: 5px;
+        }
+        
+        .table-panel {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .table-title {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 15px;
+            color: #333;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+        
+        th {
+            background: #f8f9fa;
+            font-weight: 600;
+            color: #333;
+        }
+        
+        tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .score-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-weight: 600;
+        }
+        
+        .score-badge.graded {
+            background: #e8f5e9;
+            color: #27ae60;
+        }
+        
+        .score-badge.pending {
+            background: #fff3e0;
+            color: #f57c00;
+        }
+        
+        .update-flash {
+            animation: flash 1s ease;
+        }
+        
+        @keyframes flash {
+            0%, 100% { background: transparent; }
+            50% { background: #e8f5e9; }
+        }
+        
+        .empty-state {
+            text-align: center;
+            color: #999;
+            padding: 40px;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📋 我的成绩单</h1>
+        
+        <div class="connection-panel">
+            <div class="form-group">
+                <label>用户 ID:</label>
+                <input type="number" id="userId" placeholder="请输入您的用户 ID" value="">
+                <label>Token:</label>
+                <input type="text" id="token" placeholder="JWT Token (用于获取数据)">
+            </div>
+            <div class="form-group">
+                <button class="btn btn-primary" id="connectBtn" onclick="init()">连接并加载数据</button>
+                <button class="btn btn-danger" id="disconnectBtn" onclick="disconnectWebSocket()" disabled>断开连接</button>
+            </div>
+            <div class="status-bar">
+                <div class="status-dot" id="statusDot"></div>
+                <span id="statusText">未连接 - 数据不会实时更新</span>
+            </div>
+        </div>
+        
+        <div class="stats-panel">
+            <div class="stat-item">
+                <div class="stat-value" id="totalCount">-</div>
+                <div class="stat-label">提交总数</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="gradedCount">-</div>
+                <div class="stat-label">已批改</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="avgScore">-</div>
+                <div class="stat-label">平均分</div>
+            </div>
+        </div>
+        
+        <div class="table-panel">
+            <div class="table-title">📝 作业列表</div>
+            <div id="tableContainer">
+                <div class="empty-state">请先输入用户 ID 和 Token，然后点击"连接并加载数据"</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="notification-area" id="notificationArea"></div>
+
+    <script>
+        let websocket = null;
+        let submissions = [];
+        let apiBaseUrl = window.location.origin;
+
+        function init() {
+            const userId = document.getElementById('userId').value.trim();
+            const token = document.getElementById('token').value.trim();
+            
+            if (!userId) {
+                alert('请输入用户 ID');
+                return;
+            }
+            
+            if (!token) {
+                alert('请输入 Token');
+                return;
+            }
+            
+            localStorage.setItem('userId', userId);
+            localStorage.setItem('token', token);
+            
+            loadMyReport(token);
+            connectWebSocket(userId);
+        }
+
+        function loadMyReport(token) {
+            fetch(`${apiBaseUrl}/api/submissions/my-report`, {
+                headers: {
+                    'Authorization': token
+                }
+            })
+            .then(res => res.json())
+            .then(result => {
+                if (result.code === 200 && result.data) {
+                    submissions = result.data.submissions || [];
+                    renderTable();
+                    updateStats(result.data);
+                } else {
+                    console.error('获取数据失败:', result);
+                    alert('获取数据失败: ' + (result.msg || '未知错误'));
+                }
+            })
+            .catch(err => {
+                console.error('请求失败:', err);
+                alert('请求失败，请检查 Token 是否正确');
+            });
+        }
+
+        function connectWebSocket(userId) {
+            const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsUrl = `${protocol}//${window.location.host}/ws/grade?userId=${userId}`;
+            
+            updateStatus('connecting', '正在连接...');
+            
+            websocket = new WebSocket(wsUrl);
+            
+            websocket.onopen = function() {
+                updateStatus('connected', '已连接 - 成绩将实时更新');
+                document.getElementById('connectBtn').disabled = true;
+                document.getElementById('disconnectBtn').disabled = false;
+                document.getElementById('userId').disabled = true;
+                document.getElementById('token').disabled = true;
+            };
+            
+            websocket.onmessage = function(event) {
+                const data = JSON.parse(event.data);
+                handleGradeUpdate(data);
+            };
+            
+            websocket.onclose = function() {
+                updateStatus('disconnected', '连接已断开 - 数据不会实时更新');
+                document.getElementById('connectBtn').disabled = false;
+                document.getElementById('disconnectBtn').disabled = true;
+                document.getElementById('userId').disabled = false;
+                document.getElementById('token').disabled = false;
+            };
+            
+            websocket.onerror = function(error) {
+                updateStatus('error', '连接错误');
+                console.error('WebSocket Error:', error);
+            };
+        }
+        
+        function disconnectWebSocket() {
+            if (websocket) {
+                websocket.close();
+                websocket = null;
+            }
+        }
+        
+        function updateStatus(status, text) {
+            const dot = document.getElementById('statusDot');
+            const statusText = document.getElementById('statusText');
+            
+            dot.className = 'status-dot';
+            if (status === 'connected') {
+                dot.classList.add('connected');
+            }
+            statusText.textContent = text;
+        }
+        
+        function handleGradeUpdate(data) {
+            if (data.type === 'GRADE_UPDATE') {
+                showNotification(data);
+                updateSubmissionInList(data);
+            }
+        }
+        
+        function updateSubmissionInList(data) {
+            const index = submissions.findIndex(s => s.submissionId === data.submissionId);
+            
+            if (index !== -1) {
+                submissions[index].score = data.score;
+                submissions[index].feedback = data.feedback;
+                submissions[index].taskTitle = data.taskTitle;
+            } else {
+                submissions.unshift({
+                    submissionId: data.submissionId,
+                    taskId: data.taskId,
+                    taskTitle: data.taskTitle,
+                    fileName: data.fileName,
+                    fileUrl: data.fileUrl,
+                    score: data.score,
+                    feedback: data.feedback,
+                    submitTime: data.submitTime
+                });
+            }
+            
+            renderTable(data.submissionId);
+            recalculateStats();
+        }
+        
+        function recalculateStats() {
+            const graded = submissions.filter(s => s.score !== null && s.score !== undefined);
+            const avg = graded.length > 0 
+                ? (graded.reduce((sum, s) => sum + s.score, 0) / graded.length).toFixed(1)
+                : '-';
+            
+            document.getElementById('totalCount').textContent = submissions.length;
+            document.getElementById('gradedCount').textContent = graded.length;
+            document.getElementById('avgScore').textContent = avg;
+        }
+        
+        function showNotification(data) {
+            const area = document.getElementById('notificationArea');
+            const notification = document.createElement('div');
+            notification.className = 'notification';
+            
+            const time = new Date(data.gradedTime).toLocaleString('zh-CN');
+            
+            notification.innerHTML = `
+                <div class="notification-title">作业批改完成</div>
+                <div class="notification-content">
+                    您的作业「<strong>${data.taskTitle}</strong>」已被批改
+                </div>
+                <div class="notification-score">得分: ${data.score} 分</div>
+                ${data.feedback ? `<div class="notification-content" style="margin-top: 8px;">评语: ${data.feedback}</div>` : ''}
+                <div class="notification-time">${time}</div>
+            `;
+            
+            area.appendChild(notification);
+            
+            setTimeout(() => {
+                notification.style.animation = 'slideIn 0.3s ease reverse';
+                setTimeout(() => notification.remove(), 300);
+            }, 5000);
+        }
+        
+        function renderTable(flashId = null) {
+            const container = document.getElementById('tableContainer');
+            
+            if (submissions.length === 0) {
+                container.innerHTML = '<div class="empty-state">暂无提交记录</div>';
+                return;
+            }
+            
+            let html = `
+                <table>
+                    <thead>
+                        <tr>
+                            <th>任务名称</th>
+                            <th>文件名</th>
+                            <th>提交时间</th>
+                            <th>成绩</th>
+                            <th>评语</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+            
+            submissions.forEach(s => {
+                const time = s.submitTime ? new Date(s.submitTime).toLocaleString('zh-CN') : '-';
+                const isGraded = s.score !== null && s.score !== undefined;
+                const shouldFlash = flashId && s.submissionId === flashId;
+                
+                html += `
+                    <tr class="${shouldFlash ? 'update-flash' : ''}">
+                        <td>${s.taskTitle || '-'}</td>
+                        <td>
+                            ${s.fileUrl 
+                                ? `<a href="${s.fileUrl}" target="_blank">${s.fileName || '查看文件'}</a>` 
+                                : (s.fileName || '-')}
+                        </td>
+                        <td>${time}</td>
+                        <td>
+                            <span class="score-badge ${isGraded ? 'graded' : 'pending'}">
+                                ${isGraded ? s.score + ' 分' : '待批改'}
+                            </span>
+                        </td>
+                        <td>${s.feedback || '-'}</td>
+                    </tr>
+                `;
+            });
+            
+            html += '</tbody></table>';
+            container.innerHTML = html;
+        }
+        
+        function updateStats(data) {
+            document.getElementById('totalCount').textContent = data.totalCount || 0;
+            document.getElementById('avgScore').textContent = data.averageScore || '-';
+            
+            const gradedCount = submissions.filter(s => s.score !== null && s.score !== undefined).length;
+            document.getElementById('gradedCount').textContent = gradedCount;
+        }
+        
+        window.addEventListener('beforeunload', function() {
+            if (websocket) {
+                websocket.close();
+            }
+        });
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            const savedUserId = localStorage.getItem('userId');
+            const savedToken = localStorage.getItem('token');
+            if (savedUserId) document.getElementById('userId').value = savedUserId;
+            if (savedToken) document.getElementById('token').value = savedToken;
+        });
+    </script>
+</body>
+</html>

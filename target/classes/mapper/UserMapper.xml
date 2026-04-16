@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.ccc.mapper.UserMapper">
+
+    <select id="findByUsername" resultType="com.example.ccc.entity.User">
+        SELECT * FROM user WHERE username = #{username}
+    </select>
+
+    <!-- 原有的插入 (记得加上 role 字段) -->
+    <insert id="insert" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO user (username, password, nickname, email, role, create_time, update_time)
+        VALUES (#{username}, #{password}, #{nickname}, #{email}, IFNULL(#{role}, 'USER'), NOW(), NOW())
+    </insert>
+
+    <!-- === 新增的 4 个实现 === -->
+
+    <!-- 1. 根据ID查询 -->
+    <select id="selectById" resultType="com.example.ccc.entity.User">
+        SELECT * FROM user WHERE id = #{id}
+    </select>
+
+    <!-- 2. 查询所有用户 -->
+    <select id="findAll" resultType="com.example.ccc.entity.User">
+        SELECT * FROM user
+    </select>
+
+    <!-- 3. 删除用户 -->
+    <delete id="deleteById">
+        DELETE FROM user WHERE id = #{id}
+    </delete>
+
+    <!-- 4. 动态更新用户信息 -->
+    <update id="update">
+        UPDATE user
+        <set>
+            <if test="nickname != null">nickname = #{nickname},</if>
+            <if test="email != null">email = #{email},</if>
+            <if test="password != null">password = #{password},</if>
+            <if test="role != null">role = #{role},</if> <!-- 允许管理员修改角色 -->
+            <if test="avatar != null">avatar = #{avatar},</if>
+            update_time = NOW()
+        </set>
+        WHERE id = #{id}
+    </update>
+</mapper>
